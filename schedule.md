@@ -23,7 +23,7 @@ The Contractor shall also work with the CS, the Government’s designated note t
 
 
 
-## 5.2.1	CAPTURE OF VISTA CLIENT TRAFFIC
+## 5.2.1 CAPTURE OF VISTA CLIENT TRAFFIC
 
 The Contractor shall coordinate the use of built-in VAEC facilities to non-invasively log the VistA client traffic (RPC traffic) of VAEC-hosted VistAs for a representative period. As a non-invasive method, it will not require any change, reconfiguration, interfaces, development, patches, or plugins in the VistA system itself or any client communicating with that VistA. 
 
