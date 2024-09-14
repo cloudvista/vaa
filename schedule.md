@@ -28,14 +28,14 @@ The Contractor shall also work with the CS, the Government’s designated note t
 The Contractor shall coordinate the use of built-in VAEC facilities to non-invasively log the VistA client traffic (RPC traffic) of VAEC-hosted VistAs for a representative period. As a non-invasive method, it will not require any change, reconfiguration, interfaces, development, patches, or plugins in the VistA system itself or any client communicating with that VistA. 
 
 The Contractor shall coordinate the logging of all client traffic of three VAEC-based production VA VistAs (“Analyzed VistAs”). At least one of the VistAs should support a large integrated medical facility.
-  
+   
 The Contractor shall:
-a)	In collaboration with the Government, identity three VistAs and obtain permission from their managers to capture their RPC traffic. 
+a)	In collaboration with the Government, identity three VistAs and obtain permission from their managers to capture their RPC traffic.  
 b)	Coordinate the configuration of the RPC Traffic capture to log all RPC traffic for these three VistAs.  
-c)	Monitor and ensure traffic logging of each of the three identified VistAs for at least one month and the storage of all captured data in VAEC for analysis.
+c)	Monitor and ensure traffic logging of each of the three identified VistAs for at least one month and the storage of all captured data in VAEC for analysis.  
 d)	Develop and provide a VistA Traffic Logging Standard Operating Procedure to document the processes and procedures used to log required traffic from any VistA, including permissions required from VistA owners and VAEC maintainers
 
-Deliverables:
+Deliverables:  
 A.	    VistA Traffic Logging Standard Operating  Procedure 
 
 
@@ -46,18 +46,18 @@ A.	    VistA Traffic Logging Standard Operating  Procedure
 
 Using the client traffic captured (deliverable 5.2.1A) , the Contractor shall provide Traffic Analysis Reports comprising the complete client traffic for each of the three analyzed VistAs. In addition, the Contractor shall provide a Cross VistA Analysis Report distinguishing cross-VistA from VistA-specific traffic patterns. All four reports (i.e. 3 Traffic Analysis Reports and 1 Cross VistA Analysis Report) shall be composed in GitHub compatible markdown with embedded graphics where appropriate. The Contractor shall store all four reports as markdown in the VA Enterprise GitHub. 
 
-Traffic Analysis Report for each VistA shall characterize:
-a)	User volume 
-b)	Client types and volume of use
-c)	Connection volumes, frequency, and duration
-d)	Types of user authentication/security and relative use
-e)	Machine from end Users 
-f)	RPC usage frequency and execution times
-g)	RPC groupings – representing transactions
-h)	RPCs specific to a VistA from cross-VistA RPCs
+Traffic Analysis Report for each VistA shall characterize:  
+a)	User volume  
+b)	Client types and volume of use  
+c)	Connection volumes, frequency, and duration  
+d)	Types of user authentication/security and relative use  
+e)	Machine from end Users  
+f)	RPC usage frequency and execution times  
+g)	RPC groupings – representing transactions  
+h)	RPCs specific to a VistA from cross-VistA RPCs  
 
-DELIVERABLES:
-A.	Traffic Analysis Reports for three production VistAs   
+DELIVERABLES:  
+A.	Traffic Analysis Reports for three production VistAs  
 B.	Cross VistA Traffic Analysis Report
 
 
@@ -67,25 +67,24 @@ B.	Cross VistA Traffic Analysis Report
 
 Based on the traffic and client types isolated during the VistA traffic analysis, the Contractor shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA point-of-care applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen after project start based on client usage. All three reports shall be composed in GitHub compatible markdown with embedded graphics where appropriate.  The Contractor shall store the three reports in a git in the VA Enterprise GitHub.   All client analyses must be validated and verifiable in a demonstrable way, matching RPC flows to specific client screens and typical tasks. The Contractor shall document the verification and validation of the analysis and provide a Client Traffic Analysis Validation and Verification Report. 
 
-The per Client Traffic Analysis shall include:
-a)	User volumes and types. User types shall capture clinical care specialties and roles.
-b)	Connection volume and duration, tying frequency of client use to user types
-c)	Types of user authentication/security and relative use
-d)	Patient volumes
-e)	Enumeration of all RPCs used by a client and their relative use
-f)	Distinction of clinical from non-clinical RPCs
-g)	Distinction of RPCs that change (write) from those that read the clinical record 
-h)	Distinction of slow running, high overhead and variable overhead RPCs
-i)	Clinical care task sets, represented as groups of RPCs used in tandem
-j)	Match task sets with the use of one or more specific client screens
-k)	Task sets employed by different user types
-l)	Isolate performance issues with patterns of use that slow care
+The per Client Traffic Analysis shall include:  
+a)	User volumes and types. User types shall capture clinical care specialties and roles.  
+b)	Connection volume and duration, tying frequency of client use to user types  
+c)	Types of user authentication/security and relative use  
+d)	Patient volumes  
+e)	Enumeration of all RPCs used by a client and their relative use  
+f)	Distinction of clinical from non-clinical RPCs  
+g)	Distinction of RPCs that change (write) from those that read the clinical record  
+h)	Distinction of slow running, high overhead and variable overhead RPCs  
+i)	Clinical care task sets, represented as groups of RPCs used in tandem  
+j)	Match task sets with the use of one or more specific client screens  
+k)	Task sets employed by different user types  
+l)	Isolate performance issues with patterns of use that slow care  
 m)	Verification and validation that the analysis accurately captures care provision  
 
 Deliverables:  
-A.	Three (3)  VistA Client Use Analysis Reports
+A.	Three (3)  VistA Client Use Analysis Reports  
 B.	Client Analysis Validation and Verification Report
-
 
 
 
@@ -94,8 +93,7 @@ B.	Client Analysis Validation and Verification Report
 Based solely   on the Client Use Analysis Reports, the Contractor shall provide recommendations to upgrade the use of the top three RPC-using Point-of-Care VistA Clients to deliver better clinical care. These recommendations shall be documented in Client Use Improvement Reports for each Client in Microsoft Word and a supporting PowerPoint presentation. 
 
 Deliverables:  
-A.	Client Use Improvement Reports
-
+A.	Client Use Improvement Reports  
 
 
 => This task requires the contractor to provide recommendations to upgrade CPRS (and two other clients) to deliver better clinical care (more safe, more efficient, etc). These recommendations must come from soley the clinical workflow (RPC flows) analysis of section 5.2.3.
