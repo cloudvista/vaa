@@ -33,8 +33,9 @@ b)	Coordinate the configuration of the RPC Traffic capture to log all RPC traffi
 c)	Monitor and ensure traffic logging of each of the three identified VistAs for at least one month and the storage of all captured data in VAEC for analysis.
 d)	Develop and provide a VistA Traffic Logging Standard Operating Procedure to document the processes and procedures used to log required traffic from any VistA, including permissions required from VistA owners and VAEC maintainers
 
+Deliverables:
+A.	    VistA Traffic Logging Standard Operating  Procedure 
 
-=> This task requires the vendor to use facilities built into the VA Enterprise Cloud (i.e. features already built in to AWS)  to non-invasively capture RPC traffic.   The vendor needs to explain HOW they will do this, and explain WHY it is non-invasitve.  Restating the task "we will non-invasively capture RPC traffic" without an explanation proving why it is non-invasive is not sufficient. This is a show stopping requirement.  There is no way VA will allow us to touch real, live traffic flows in a production Vista-CPRS environment. That could adversely disrupt patient care.
 
 
 
@@ -58,8 +59,6 @@ A.	Traffic Analysis Reports for three production VistAs
 B.	Cross VistA Traffic Analysis Report
 
 
-=> This task requires the contractor to provide summary statistics and totals for volumes and varieties of client traffic of three VistAs. The contractor must explain HOW they will do this. 
-Note: There is NO correlation to clinical workflows; these are just composite statistics.  
 
 
 # 5.2.3	ANALYSIS OF USE OF KEY VISTA CLIENTS
@@ -86,8 +85,6 @@ A.	Three (3)  VistA Client Use Analysis Reports
 B.	Client Analysis Validation and Verification Report
 
 
-
-=> This task requires the contractor to match the RPC traffic flows to client screens and tasks.  There will be a unique RPC flow associated with each task (login, logoff, ordering a medication, ordering a lab, writing notes, etc.). There will be hundreds of unique RPC flows - one for each interaction / task.   The contractor must explain HOW they will do this matching of RPC flows to client screens user tasks.  The contractor must also demonstrate that the matching of these RPC flows to specific screens and tasks are complete and correct.
 
 
 # 5.2.4	VISTA CLIENT USE IMPROVEMENT REPORT
