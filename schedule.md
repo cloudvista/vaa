@@ -15,6 +15,7 @@
 
 
 ## 5.1.3	TECHNICAL KICKOFF MEETING
+
 A technical kickoff meeting shall be held within 10 days after TO award.  The Contractor shall coordinate the date, time, and location (can be virtual) with the Contracting Officer (CO), as the Post-Award Conference Chairperson, the VA PM, as the Co-Chairperson, the Contract Specialist (CS), and the COR.  
 
 The Contractor shall provide a draft agenda to the CO and VA PM at least five (5) calendar days prior to the meeting.  Upon Government approval of a final agenda, the Contractor shall distribute to all meeting attendees.  During the kickoff-meeting, the Contractor shall present, for review and approval by the Government, the details of the intended approach, work plan, and project schedule for each effort via a Microsoft PowerPoint presentation.  At the conclusion of the meeting, the Contractor shall update the presentation with a final slide entitled “Summary Report” which shall include notes on any major issues, agreements, or disagreements discussed during the kickoff meeting and the following statement “As the Post-Award Conference Chairperson, I have reviewed the entirety of this presentation and assert that it is an accurate representation and summary of the discussions held during the Technical Kickoff Meeting for the VistA Application Analytics effort.”  The Contractor shall compile the PowerPoint into a Microsoft Word document and submit the final Microsoft Word document to the CO for review and signature within three (3) calendar days after the meeting.  
@@ -27,18 +28,16 @@ The Contractor shall also work with the CS, the Government’s designated note t
 
 The Contractor shall coordinate the use of built-in VAEC facilities to non-invasively log the VistA client traffic (RPC traffic) of VAEC-hosted VistAs for a representative period. As a non-invasive method, it will not require any change, reconfiguration, interfaces, development, patches, or plugins in the VistA system itself or any client communicating with that VistA. 
 
-The Contractor shall coordinate the logging of all client traffic of three VAEC-based production VA VistAs (“Analyzed VistAs”). At least one of the VistAs should support a large integrated medical facility.
+The Contractor shall coordinate the logging of all client traffic of three VAEC-based production VA VistAs (“Analyzed VistAs”). At least one of the VistAs should support a large integrated medical facility.  
    
-The Contractor shall:
-a)	In collaboration with the Government, identity three VistAs and obtain permission from their managers to capture their RPC traffic.  
+The Contractor shall:  
+a)	In collaboration with the Government, identity three VistAs and obtain permission from their managers to capture their RPC traffic  
 b)	Coordinate the configuration of the RPC Traffic capture to log all RPC traffic for these three VistAs.  
 c)	Monitor and ensure traffic logging of each of the three identified VistAs for at least one month and the storage of all captured data in VAEC for analysis.  
 d)	Develop and provide a VistA Traffic Logging Standard Operating Procedure to document the processes and procedures used to log required traffic from any VistA, including permissions required from VistA owners and VAEC maintainers
 
 Deliverables:  
-A.	    VistA Traffic Logging Standard Operating  Procedure 
-
-
+A.  VistA Traffic Logging Standard Operating  Procedure  
 
 
 
