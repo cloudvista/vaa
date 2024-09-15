@@ -8,12 +8,13 @@
 5.2.3	ANALYSIS OF USE OF KEY VISTA CLIENTS
 5.2.4	VISTA CLIENT USE IMPROVEMENT REPORT
 
-5.3	VISTA CLIENT traffic CAPTURE AND Analysis [OPTION PERIOD 1]
+5.3	VISTA CLIENT traffic CAPTURE AND Analysis [Option Period)
 5.3.1	MIGRATED VISTA CLIENT TRAFFIC ANALYSIS
 5.3.2	VISTA COMMUNITY CARE CLIENT TRAFFIC ANALYSIS
 ```
 
 
+### Schedule
 ```mermaid
 gantt
     dateFormat  YY-MM-DD
@@ -56,7 +57,7 @@ gantt
 ```
 
 
-## 5.1.3	TECHNICAL KICKOFF MEETING
+### 5.1.3	TECHNICAL KICKOFF MEETING
 
 A technical kickoff meeting shall be held within 10 days after TO award.  The Contractor shall coordinate the date, time, and location (can be virtual) with the Contracting Officer (CO), as the Post-Award Conference Chairperson, the VA PM, as the Co-Chairperson, the Contract Specialist (CS), and the COR.  
 
@@ -66,7 +67,7 @@ The Contractor shall also work with the CS, the Government’s designated note t
 
 
 
-## 5.2.1 CAPTURE OF VISTA CLIENT TRAFFIC
+### 5.2.1 CAPTURE OF VISTA CLIENT TRAFFIC
 
 The Contractor shall coordinate the use of built-in VAEC facilities to non-invasively log the VistA client traffic (RPC traffic) of VAEC-hosted VistAs for a representative period. As a non-invasive method, it will not require any change, reconfiguration, interfaces, development, patches, or plugins in the VistA system itself or any client communicating with that VistA. 
 
@@ -85,7 +86,7 @@ A.  VistA Traffic Logging Standard Operating  Procedure
 
 
 
-## 5.2.2	ANALYSIS OF VISTA CLIENT TRAFFIC
+### 5.2.2	ANALYSIS OF VISTA CLIENT TRAFFIC
 
 Using the client traffic captured (deliverable 5.2.1A) , the Contractor shall provide Traffic Analysis Reports comprising the complete client traffic for each of the three analyzed VistAs. In addition, the Contractor shall provide a Cross VistA Analysis Report distinguishing cross-VistA from VistA-specific traffic patterns. All four reports (i.e. 3 Traffic Analysis Reports and 1 Cross VistA Analysis Report) shall be composed in GitHub compatible markdown with embedded graphics where appropriate. The Contractor shall store all four reports as markdown in the VA Enterprise GitHub. 
 
@@ -109,7 +110,7 @@ B.	Cross VistA Traffic Analysis Report
 
 
 
-## 5.2.3	ANALYSIS OF USE OF KEY VISTA CLIENTS
+### 5.2.3	ANALYSIS OF USE OF KEY VISTA CLIENTS
 
 Based on the traffic and client types isolated during the VistA traffic analysis, the Contractor shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA point-of-care applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen after project start based on client usage. All three reports shall be composed in GitHub compatible markdown with embedded graphics where appropriate.  The Contractor shall store the three reports in a git in the VA Enterprise GitHub.   All client analyses must be validated and verifiable in a demonstrable way, matching RPC flows to specific client screens and typical tasks. The Contractor shall document the verification and validation of the analysis and provide a Client Traffic Analysis Validation and Verification Report. 
 
