@@ -14,7 +14,10 @@
 ```
 
 
-![vaa](vaa.svg)
+
+
+![vaa-cloud](vaa-cloud.svg)
+
 
 ### Schedule
 ```mermaid
