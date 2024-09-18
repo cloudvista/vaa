@@ -1,7 +1,11 @@
 ## VistA Application Analytics
 
+#### VAEC VistA RPC Traffic Capture
+![vaa-cloud](vam.svg)
 
 
+
+#### VistA Application Analytics
 ![vaa-cloud](vaa-analyses.svg)
 
 
@@ -15,7 +19,7 @@
 
 
 
-### PWS
+#### PWS
 ```text
 5.2	VISTA CLIENT TRAFFIC CAPTURE AND ANALYSIS (Base Period)
 5.2.1	CAPTURE OF VISTA CLIENT TRAFFIC	
@@ -29,7 +33,7 @@
 ```
 
 
-### Schedule
+#### Schedule
 ```mermaid
 gantt
     dateFormat  YY-MM-DD
