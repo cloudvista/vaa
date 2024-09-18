@@ -143,7 +143,7 @@ B.	Client Analysis Validation and Verification Report
 
 
 
-## 5.2.4	VISTA CLIENT USE IMPROVEMENT REPORT
+### 5.2.4	VISTA CLIENT USE IMPROVEMENT REPORT
 
 Based solely   on the Client Use Analysis Reports, the Contractor shall provide recommendations to upgrade the use of the top three RPC-using Point-of-Care VistA Clients to deliver better clinical care. These recommendations shall be documented in Client Use Improvement Reports for each Client in Microsoft Word and a supporting PowerPoint presentation. 
 
