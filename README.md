@@ -1,17 +1,5 @@
-## Vist Application Analytics
+## VistA Application Analytics
 
-
-```text
-5.2	VISTA CLIENT TRAFFIC CAPTURE AND ANALYSIS (Base Period)
-5.2.1	CAPTURE OF VISTA CLIENT TRAFFIC	
-5.2.2	ANALYSIS OF VISTA CLIENT TRAFFIC
-5.2.3	ANALYSIS OF USE OF KEY VISTA CLIENTS
-5.2.4	VISTA CLIENT USE IMPROVEMENT REPORT
-
-5.3	VISTA CLIENT traffic CAPTURE AND Analysis [Option Period)
-5.3.1	MIGRATED VISTA CLIENT TRAFFIC ANALYSIS
-5.3.2	VISTA COMMUNITY CARE CLIENT TRAFFIC ANALYSIS
-```
 
 
 ![vaa-cloud](vaa-analyses.svg)
@@ -24,6 +12,21 @@
 | Sequence | RedshiftDB | RPC sequence reduction | longest common sequence (LCS) identification |
 | Workflow | github | VDL reduction | download -> parse, isolate, index -> flowchart (mermaid) |
 | Correlcation | github | sequence comparison to workflow | Task Set identification |
+
+
+
+### PWS
+```text
+5.2	VISTA CLIENT TRAFFIC CAPTURE AND ANALYSIS (Base Period)
+5.2.1	CAPTURE OF VISTA CLIENT TRAFFIC	
+5.2.2	ANALYSIS OF VISTA CLIENT TRAFFIC
+5.2.3	ANALYSIS OF USE OF KEY VISTA CLIENTS
+5.2.4	VISTA CLIENT USE IMPROVEMENT REPORT
+
+5.3	VISTA CLIENT traffic CAPTURE AND Analysis [Option Period)
+5.3.1	MIGRATED VISTA CLIENT TRAFFIC ANALYSIS
+5.3.2	VISTA COMMUNITY CARE CLIENT TRAFFIC ANALYSIS
+```
 
 
 ### Schedule
