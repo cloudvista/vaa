@@ -11,7 +11,7 @@
 | Filtered | DynamoDB | RPC extraction scripts | RPC name, type, attributes |
 | Sequence | RedshiftDB | RPC sequence reduction | longest common sequence (LCS) identification |
 | Workflow | github | VDL reduction | download -> parse, isolate, index -> flowchart (mermaid) |
-| Correlcation | github | sequence comparison to workflow | Task Set identification |
+| Correlation | github | sequence comparison to workflow | Task Set identification |
 
 
 
