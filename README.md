@@ -16,7 +16,7 @@
 
 
 
-![vaa-cloud](vaa-cloud.svg)
+![vaa-cloud](vaa-analyses.svg)
 
 
 ### Schedule
@@ -26,14 +26,14 @@ gantt
     title       VistA App Analytics
  
     section 5.2.1
-    Completed task            :done,    des1, 2024-09-06,2024-09-08
-    Active task               :active,  des2, 2024-09-09, 3d
-    Future task               :         des3, after des2, 5d
-    Future task2              :         des4, after des3, 5d
+    Completed task            :done,    task1, 2024-09-06,2024-09-08
+    Active task               :active,  task2, 2024-09-09, 3d
+    Future task               :         task3, after task2, 5d
+    Future task2              :         task4, after task3, 5d
 
     section 5.2.2
     Completed task in the critical line :crit, done, 2024-09-06,24h
-    Implement parser and jison          :crit, done, after des1, 2d
+    Implement parser and jison          :crit, done, after task1, 2d
     Create tests for parser             :crit, active, 3d
     Future task in critical line        :crit, 5d
     Create tests for renderer           :2d
