@@ -1,11 +1,7 @@
 ## VistA Application Analytics
 
-#### VAEC VistA RPC Traffic Capture
 ![vaa-cloud](vam.svg)
 
-
-
-#### VistA Application Analytics
 ![vaa-cloud](vaa-analyses.svg)
 
 
