@@ -1,4 +1,11 @@
-## VistA Application Analytics
+## # VistA Application Analytics
+
+Provides objective, comprehensive, real-world  measurement and assessment of VHA's clinical application workflows and impact of workflow interventions. Enables enterprise standardization of clinical workflows across VAMCs,  supporting the Enterprise Standardization Initiative and facilitates implementation of enterprise standard best practices and single enterprise EHR.  Enables Integrated Health Practice (IHP)  informaticians  to identify nonstandard  and inefficient clinical workflows to improve Veteran experience and healthcare outcomes.
+
+Provides comprehensive capture and analytics of the workflows and interaction dynamitcs of clinical staff using VistA's point-of-care applications (CPRS and others).  Enables enterprise standardization and optimization of clinical workflows across VAMCs and VISNs improving clinical efficiency and enabling the transition to a single integrated enterprise EHR.
+
+Provides objective, comprehensive, real-world  measurement and assessment of VHA's clinical application workflows and impact of workflow interventions. Enables Integrated Health Practice (IHP)  informaticians  to identify nonstandard  and inefficient clinical workflows to improve Veteran experience and healthcare outcomes. Enables enterprise standardization of clinical workflows across VAMCs,  supporting the Enterprise Standardization Initiative (ESI) and enabling implementation of a single integrated enterprise EHR.
+
 
 ![vaa-cloud](vam.svg)
 
