@@ -22,7 +22,7 @@ Vist Applicaton Analytics (VAA) provides comprehensive cloud-based capture and a
 
 
 
-#### PWS
+#### Work Statement
 ```text
 5.2	VISTA CLIENT TRAFFIC CAPTURE AND ANALYSIS (Base Period)
 5.2.1	CAPTURE OF VISTA CLIENT TRAFFIC	
