@@ -7,6 +7,8 @@ Vist Applicaton Analytics (VAA) provides comprehensive cloud-based capture and a
 
 ![vaa-cloud](vam.svg)
 
+
+### Analytics Approach
 ![vaa-cloud](vaa-analyses.svg)
 
 
