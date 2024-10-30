@@ -1,4 +1,0 @@
-
-
-![](vaa-overview.png)
-
