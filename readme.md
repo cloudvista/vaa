@@ -47,7 +47,7 @@ gantt
  
     section 1
     Completed task            :done,    task1, 2024-09-06,2024-09-08
-    Active task               :active,  task2, 2024-09-09, 3030d
+    Active task               :active,  task2, 2024-09-09, 30d
     Future task               :         task3, after task2, 50d
     Future task2              :         task4, after task3, 50d
 
