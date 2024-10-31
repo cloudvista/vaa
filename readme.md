@@ -1,12 +1,14 @@
-![](img/vaa-intro2.png)
+![](img/vaa-overview.png)
 
 ### VistA Application Analytics
 Vist Applicaton Analytics (VAA) provides comprehensive cloud-based capture and analytics of all usage, interactions, transactions, and workflows of all VistA end-user applications, enabling data-driven improvement of efficiency, safety, and workflows of VHA clinical staff.
 
+### VAA Overview
+![](img/vaa-overview.svg)
+
 
 #### Workflow Capture
 ![vaa-capture](img/vaa-capture.svg)
-
 
 #### Workflow Analytics
 ![vaa-cloud](img/workflow-analytics.svg)
