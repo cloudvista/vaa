@@ -15,6 +15,7 @@ Vist Applicaton Analytics (VAA) provides comprehensive cloud-based capture and a
 ![vaa-cloud](img/workflow-correlation.svg)
 
 
+#### Analytics Categories
 
 | analysis | storage | technique | summary |
 |---------|----------|-----------|---------|
@@ -25,52 +26,50 @@ Vist Applicaton Analytics (VAA) provides comprehensive cloud-based capture and a
 | Correlation | github | sequence comparison to workflow | Task Set identification |
 
 
+#### Schedule
 
-#### Work Statement
 ```text
-5.2	VISTA CLIENT TRAFFIC CAPTURE AND ANALYSIS (Base Period)
-5.2.1	CAPTURE OF VISTA CLIENT TRAFFIC	
-5.2.2	ANALYSIS OF VISTA CLIENT TRAFFIC
-5.2.3	ANALYSIS OF USE OF KEY VISTA CLIENTS
-5.2.4	VISTA CLIENT USE IMPROVEMENT REPORT
-
-5.3	VISTA CLIENT traffic CAPTURE AND Analysis [Option Period)
-5.3.1	MIGRATED VISTA CLIENT TRAFFIC ANALYSIS
-5.3.2	VISTA COMMUNITY CARE CLIENT TRAFFIC ANALYSIS
+BASE PERIOD
+1.	CAPTURE OF VISTA CLIENT TRAFFIC	
+2.	ANALYSIS OF VISTA CLIENT TRAFFIC
+3.	ANALYSIS OF USE OF KEY VISTA CLIENTS
+4.	VISTA CLIENT USE IMPROVEMENT REPORT
+OPTION PERIOD
+1.	MIGRATED VISTA CLIENT TRAFFIC ANALYSIS
+2.	VISTA COMMUNITY CARE CLIENT TRAFFIC ANALYSIS
 ```
 
 
-#### Schedule
 ```mermaid
 gantt
     dateFormat  YY-MM-DD
     title       VistA App Analytics
  
-    section 5.2.1
+    section 1
     Completed task            :done,    task1, 2024-09-06,2024-09-08
     Active task               :active,  task2, 2024-09-09, 3d
     Future task               :         task3, after task2, 5d
     Future task2              :         task4, after task3, 5d
 
-    section 5.2.2
+    section 2
     Completed task in the critical line :crit, done, 2024-09-06,24h
-    Implement parser and jison          :crit, done, after task1, 2d
+    Implement parser and json          :crit, done, after task1, 2d
     Create tests for parser             :crit, active, 3d
     Future task in critical line        :crit, 5d
     Create tests for renderer           :2d
     Add to mermaid                      :until isadded
     Functionality added                 :milestone, isadded, 2024-09-25, 0d
     
-    section 5.2.3
+    section 3
     Completed task in the critical line :crit, done, 2024-09-06,24h
-    Implement parser and jison          :crit, done, after des1, 2d
+    Implement parser and json          :crit, done, after des1, 2d
     Create tests for parser             :crit, active, 3d
     Future task in critical line        :crit, 5d
     Create tests for renderer           :2d
     Add to mermaid                      :until isadded
     Functionality added                 :milestone, isadded, 2024-09-25, 0d
 
-    section 5.2.4
+    section 4
     Describe gantt syntax               :after doc1, 3d
     Add gantt diagram to demo page      :20h
     Add another diagram to demo page    :48h
