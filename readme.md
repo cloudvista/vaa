@@ -45,13 +45,13 @@ gantt
     dateFormat  YY-MM-DD
     title       VistA App Analytics
  
-    section 1
+    section Traffic Capture
     Completed task            :done,    task1, 2024-09-06,2024-09-08
     Active task               :active,  task2, 2024-09-09, 30d
     Future task               :         task3, after task2, 50d
     Future task2              :         task4, after task3, 50d
 
-    section 2
+    section Traffic Analytics
     Completed task in the critical line :crit, done, 2024-09-06,24h
     Implement parser and json          :crit, done, after task1, 20d
     Create tests for parser             :crit, active, 30d
@@ -60,7 +60,7 @@ gantt
     Add to mermaid                      :until isadded
     Functionality added                 :milestone, isadded, 2024-09-25, 0d
     
-    section 3
+    section Client Analytics
     Completed task in the critical line :crit, done, 2024-09-06,24h
     Implement parser and json          :crit, done, after des1, 2d
     Create tests for parser             :crit, active, 3d
@@ -69,12 +69,8 @@ gantt
     Add to mermaid                      :until isadded
     Functionality added                 :milestone, isadded, 2024-09-25, 0d
 
-    section 4
-    Describe gantt syntax               :after doc1, 3d
-    Add gantt diagram to demo page      :20h
-    Add another diagram to demo page    :48h
 
-    section Documentation
+    section Client Improvement
     Describe gantt syntax               :active, a1, after des1, 3d
     Add gantt diagram to demo page      :after a1  , 20h
     Add another diagram to demo page    :doc1, after a1  , 48h
