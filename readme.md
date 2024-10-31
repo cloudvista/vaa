@@ -2,9 +2,9 @@
 
 
 ### Introduction
-To aid maintenance and manageability of VistA, VA has migrated all VistA systems to the VA Enterprise Cloud (VAEC), a federally certified U.S. GovCloud managed by Amazon Web Services (AWS).  By leveraging the built-in traffic logging capabilities of the VAEC-based VistA systems, VHA has the first-ever opportunity to analyze the actual clinical care workflows employed in VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
+To aid maintenance and manageability of VistA, VA has migrated all VistA systems to the VA Enterprise Cloud (VAEC), a federally certified U.S. GovCloud managed by Amazon Web Services (AWS).  By leveraging the built-in traffic logging capabilities of the VAEC-based VistA systems ("Cloud VistA"), VHA has the first-ever opportunity to analyze the actual clinical care workflows employed in VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
-VA care is currently provided through VistA's clients (‘VistA Applications”) which communicate with the VistA servers via remote procedure calls (RPCs) . Taken as a whole, these remote procedure calls between VistA clients and VistA servers capture the patterns of clinical care activity performed today in VA (workflow).  
+VA care is currently provided through VistA's clients (‘VistA Applications”) which communicate with the VistA servers via remote procedure calls (RPCs) . Taken as a whole, these remote procedure calls between VistA clients and VistA servers capture the actual pattern of clinical care activity performed today in VA (workflow).  
 
 
 ![](img/vaa-overview1.svg)
