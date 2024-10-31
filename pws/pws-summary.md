@@ -1,15 +1,3 @@
-First: an explanation why these responses have an overwhelming IT / technology focus, rather than a clinical informatics / analytics focus.  As the author of this Product Work Statement (PWS), I have had to continuously change it over the past two years to please various committees and review boards to navigate VA's contracting processes.  Originally the PWS was an extension of a prior OIT project to analyze RPC traffic called Vista Adaptive Maintenance (VAM). The VAM project (completed in 2020) demonstrated it was possible to non-invasively capture RPC traffic from VistA systems hosted in the VA Enterprise Cloud (VAEC), and that one could do bulk summary statistics of RPC traffic. VAM however did not do any analysis of the RPC flows (workflow analytics) that this current PWS is concerned with.
-
-In summer 2023 we were allocated funding for workflow analytics from VHA CIDMO. As a VHA funded project, we removed all "IT" associated components of the PWS.  The IT Workgroup (ITW) reviewed the PWS, and made the determination that it was indeed "non-IT" and we could  proceed using VHA funding.
-In March 2024 we did market research via open public solicitation and request for information (RFI). A technical review of the RFI responses determined that there was only one viable contractor. However, rather than awarding the contract at that time to this one viable vendor, VA contracting transferred this PWS from VHA contracting to OIT contracting with an associated waiver stating that OIT can peform "IT related" tasks such as informatics and analytics.  The OIT contract vehicle is a pre-selected pool of about 30 prime contractors called T4NG.  We therefore had to transfer the PWS to the T4NG PWS contract format, which is full of IT related policies and procedures.  Again - apology for the convoluted and "noisy" responses that focus on technologies rather than analytics.
-# ==============================================================================================
-
-
-
-This brief guide is to help you sift through the noise and focus on the informatics and clinical  analytics component.
-
-The Technical Evaluation committee will evaluate only the technical components of the response, which is  section 5.2 and 5.3.  Section 5.1 (project management) is not in scope for our review.  The PWS sections in scope to evaluate are the following:
-
 # 5.2	VISTA CLIENT TRAFFIC CAPTURE AND ANALYSIS (Base Period)	7
 5.2.1	CAPTURE OF VISTA CLIENT TRAFFIC	
 5.2.2	ANALYSIS OF VISTA CLIENT TRAFFIC
@@ -61,3 +49,8 @@ Based on the traffic and client types isolated during the VistA traffic analysis
 Based solely on the Client Use Analysis Reports, the Contractor shall provide recommendations to upgrade the use of the top three RPC-using Point-of-Care VistA Clients to deliver better clinical care. 
 
 => This task requires the contractor to provide recommendations to upgrade CPRS (and two other clients) to deliver better clinical care (more safe, more efficient, etc). These recommendations must come from soley the clinical workflow (RPC flows) analysis of section 5.2.3.
+
+
+
+## History
+Originally the PWS was an extension of a prior OIT project to analyze RPC traffic called Vista Adaptive Maintenance (VAM). The VAM project (completed in 2020) demonstrated it was possible to non-invasively capture RPC traffic from VistA systems hosted in the VA Enterprise Cloud (VAEC), and that one could do bulk summary statistics of RPC traffic. VAM however did not do any analysis of the RPC flows (workflow analytics) that this current PWS is concerned with.
