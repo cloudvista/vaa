@@ -6,8 +6,6 @@ To provide a modern, centralized cloud-based platform for veteran healthcare, VA
 
 VA care is currently provided through VistA's clients (VistA Applications) which communicate with the VistA servers via remote procedure calls (RPCs) . Taken as a whole, these remote procedure calls between VistA applications and VistA servers captures the complete clinical care activity  (workflow) performed at VHA medical centers.
 
-![](img/vaa-overview.svg)
-
 ![](img/vaa-overview1.svg)
 
 
