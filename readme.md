@@ -1,8 +1,7 @@
 
 ## VistA Application Analytics
 
-Vist Applicaton Analytics (VAA) provides comprehensive cloud-based capture and analytics of all interactions, transactions, and workflows of all VistA end-user applications, enabling data-driven improvement of efficiency, safety, and workflows across the VA healthcare system.
-
+Vist Applicaton Analytics (VAA) provides comprehensive cloud-based capture and analytics of all interactions, transactions, and workflows of all VistA end-user applications, enabling data-driven improvement of efficiency, safety, and workflows of VHA clinical staff.
 ![](img/vaa-intro1.png)
 
 ![vaa-implementation](img/vam.svg)
