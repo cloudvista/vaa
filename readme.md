@@ -47,16 +47,16 @@ gantt
  
     section 1
     Completed task            :done,    task1, 2024-09-06,2024-09-08
-    Active task               :active,  task2, 2024-09-09, 3d
-    Future task               :         task3, after task2, 5d
-    Future task2              :         task4, after task3, 5d
+    Active task               :active,  task2, 2024-09-09, 3030d
+    Future task               :         task3, after task2, 50d
+    Future task2              :         task4, after task3, 50d
 
     section 2
     Completed task in the critical line :crit, done, 2024-09-06,24h
-    Implement parser and json          :crit, done, after task1, 2d
-    Create tests for parser             :crit, active, 3d
-    Future task in critical line        :crit, 5d
-    Create tests for renderer           :2d
+    Implement parser and json          :crit, done, after task1, 20d
+    Create tests for parser             :crit, active, 30d
+    Future task in critical line        :crit, 50d
+    Create tests for renderer           :20d
     Add to mermaid                      :until isadded
     Functionality added                 :milestone, isadded, 2024-09-25, 0d
     
@@ -82,7 +82,7 @@ gantt
 ```
 
 
-### CAPTURE OF VISTA CLIENT TRAFFIC
+### Capture of VistA Client Traffic
 
 The Contractor shall coordinate the use of built-in VAEC facilities to non-invasively log the VistA client traffic (RPC traffic) of VAEC-hosted VistAs for a representative period. As a non-invasive method, it will not require any change, reconfiguration, interfaces, development, patches, or plugins in the VistA system itself or any client communicating with that VistA. 
 
@@ -101,7 +101,7 @@ A.  VistA Traffic Logging Standard Operating  Procedure
 
 
 
-### ANALYSIS OF VISTA CLIENT TRAFFIC
+### Analysis of VistA Client Traffic
 
 Using the client traffic captured (deliverable 5.2.1A) , the Contractor shall provide Traffic Analysis Reports comprising the complete client traffic for each of the three analyzed VistAs. In addition, the Contractor shall provide a Cross VistA Analysis Report distinguishing cross-VistA from VistA-specific traffic patterns. All four reports (i.e. 3 Traffic Analysis Reports and 1 Cross VistA Analysis Report) shall be composed in GitHub compatible markdown with embedded graphics where appropriate. The Contractor shall store all four reports as markdown in the VA Enterprise GitHub. 
 
@@ -125,7 +125,7 @@ B.	Cross VistA Traffic Analysis Report
 
 
 
-### ANALYSIS OF USE OF KEY VISTA CLIENTS
+### Analysis of Use of Key VistA Clients
 
 Based on the traffic and client types isolated during the VistA traffic analysis, the Contractor shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA point-of-care applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen after project start based on client usage. All three reports shall be composed in GitHub compatible markdown with embedded graphics where appropriate.  The Contractor shall store the three reports in a git in the VA Enterprise GitHub.   All client analyses must be validated and verifiable in a demonstrable way, matching RPC flows to specific client screens and typical tasks. The Contractor shall document the verification and validation of the analysis and provide a Client Traffic Analysis Validation and Verification Report. 
 
@@ -153,7 +153,7 @@ B.	Client Analysis Validation and Verification Report
 
 
 
-### VISTA CLIENT USE IMPROVEMENT REPORT
+### VistA Client Use Improvement
 
 Based solely   on the Client Use Analysis Reports, the Contractor shall provide recommendations to upgrade the use of the top three RPC-using Point-of-Care VistA Clients to deliver better clinical care. These recommendations shall be documented in Client Use Improvement Reports for each Client in Microsoft Word and a supporting PowerPoint presentation. 
 
