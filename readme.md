@@ -5,7 +5,7 @@ Vist Applicaton Analytics (VAA) provides comprehensive cloud-based capture and a
 
 
 #### Workflow Capture
-![vaa-capture](img/capture.svg)
+![vaa-capture](img/vaa-capture.svg)
 
 
 #### Workflow Analytics
