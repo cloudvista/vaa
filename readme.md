@@ -9,7 +9,11 @@ Vist Applicaton Analytics (VAA) provides comprehensive cloud-based capture and a
 
 
 #### Workflow Analytics
-![vaa-cloud](img/vaa-analytics.svg)
+![vaa-cloud](img/workflow-analytics.svg)
+
+#### Workflow Correlation
+![vaa-cloud](img/workflow-correlation.svg)
+
 
 
 | analysis | storage | technique | summary |
