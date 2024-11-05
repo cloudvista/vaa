@@ -2,7 +2,7 @@
 
 
 ### Introduction
-To provide state-of-the art platform to provide veteran healthcare, VA has migrated all VistA systems to a single centralized federally-certified commercial cloud ("Cloud VistA"). In VA's new cloud-based healthcare platform, hundreds of new services and capabilities are available to VistA to improve veteran care.
+To provide state-of-the art platform to provide veteran healthcare, VA has migrated all VistA systems to a single centralized federally-certified commercial cloud ("Cloud VistA"). In VA's new centralized cloud-based healthcare platform, hundreds of new services and capabilities are available to VistA to improve veteran care.
 
 By leveraging the built-in traffic streaming capabilities of Cloud VistA, VHA has the first-ever opportunity to comprehensively analyze the all clinical workflows of staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
