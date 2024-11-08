@@ -18,9 +18,9 @@ All of the VistA Application workflows (RPC traffic) of cloud-based VistA will b
 #### Workflow Analytics
 Using the RPC traffic captured, multiple parallel analyses will occur.
 1. Simple/Filtered analysis - identification of types and volumes of RPCs
-2. Longest Common Sequence (LCS) - identifying and classifying longest common RPC sequences by task
-3. Vista Documentation Library (VDL) - extraction of documented workflows
-
+2. Longest Common Sequence (LCS) - identifying and classifying longest common sequences of RPCs, which are the actual workflow
+3. Vista Documentation Library (VDL) - identify the documented workflows
+   
 ![vaa-cloud](img/workflow-analytics.svg)
 
 #### Workflow Correlation
