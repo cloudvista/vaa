@@ -1,18 +1,15 @@
 ![](img/vaa-intro5.png)
 
-
 ### Introduction
-To provide state-of-the art platform for veteran healthcare, VA has migrated all VistA systems to a single centralized federally-certified commercial cloud ("Cloud VistA"). In VA's new centralized cloud-based healthcare platform, hundreds of new services and capabilities are available to VistA to improve veteran care.
+To provide a modern, centralized cloud-based platform for veteran healthcare, VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified commercial cloud managed by Amazon Web Services. VA's new centralized cloud-based VistA ("Cloud VistA") provides many new features and capabilities to VistA and veteran care.
 
-By leveraging the built-in traffic streaming capabilities of Cloud VistA, VHA has the first-ever opportunity to comprehensively analyze the all clinical workflows of staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
+By leveraging built-in traffic streaming capabilities of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
-Veteran care is currently provided by VHA staff using VistA Applications (Windows desktop applications) which communicate with the VistA servers via remote procedure calls (RPCs) to perform all transactions. In aggregate, these remote procedure calls between VistA applications and VistA servers captures the complete clinical care activity (workflow) performed at VHA medical centers.
+Today Veteran care is provided by VHA Staff using a suite of VistA applications (windows desktop applications), which process all their transactions on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA applications (clients) and VistA (server) encapsulate and describe all clinical care transactions and workflowss performed at a VHA medical center.
+
+The Vista Application Analytics project calls for health care data experts to analyze the RPC traffic between VistA clients and three representative VistA servers. The analysis will be provided in a series of precise reports, detailing different aspect of VA care.  Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified classes of health care professional as well as the range of time spent on different tasks.  On completion, VHA will possess a set of concrete, actionable recommendations, and demonstrations for improving the care provided to Veterans as well as a guide for how to perform such analysis in the future.
 
 ![](img/vaa-overview1.svg)
-
-
-The Vista Application Analytics (VAA) project will analyze the RPC traffic between all VistA Applications (including CPRS and many others) and three representative VistA servers. The analysis will be provided in a series of precise reports, detailing different aspect of VA care.  Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified classes of health care professional as well as the range of time spent on different tasks.  On completion, VHA will possess a set of concrete, actionable recommendations, and demonstrations for improving the care provided to Veterans as well as a guide for how to perform such analysis in the future.
-
 
 #### Workflow Capture
 ![vaa-capture](img/vaa-capture.svg)
@@ -31,8 +28,8 @@ The Vista Application Analytics (VAA) project will analyze the RPC traffic betwe
 | Simple |  S3 | direct RPC queries | foundation metrics|
 | Filtered | DynamoDB | RPC extraction scripts | RPC name, type, attributes |
 | Sequence | RedshiftDB | RPC sequence reduction | longest common sequence (LCS) identification |
-| Workflow | github | VDL reduction | download -> parse, isolate, index -> flowchart (mermaid) |
-| Correlation | github | sequence comparison to workflow | Task Set identification |
+| Workflow | Github | VDL reduction | download -> parse, isolate, index -> flowchart (mermaid) |
+| Correlation | Github | sequence comparison to workflow | Task Set identification |
 
 
 #### Schedule
