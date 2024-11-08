@@ -16,6 +16,7 @@ All of the VistA Application workflows (RPC traffic) of cloud-based VistA will b
 ![vaa-capture](img/vaa-capture.svg)
 
 #### Workflow Analytics
+Using the RPC traffic captured, multiple parallel analyses will occur.
 ![vaa-cloud](img/workflow-analytics.svg)
 
 #### Workflow Correlation
