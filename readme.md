@@ -12,7 +12,7 @@ The Vista Application Analytics project calls for health care data experts to an
 ![](img/vaa-overview1.svg)
 
 #### Workflow Capture
-All of the VistA Application transactional traffic flows (RPCs) of cloud-based VistA will be streamed to a simple storage service (S3) using the built-in traffic mirroring service in the VA's enterprise cloud.
+All of the VistA Application workflows (RPC traffic) of cloud-based VistA will be streamed to a simple storage service (S3) using the built-in traffic mirroring service in the AWS cloud.
 ![vaa-capture](img/vaa-capture.svg)
 
 #### Workflow Analytics
