@@ -13,8 +13,9 @@ The Vista Application Analytics project calls for health care data experts to an
 __Note__: The most important VistA Application used by VA clinical staff is the Computerized Patient Record System (CPRS), and will therefore be the focus of the VistA application analytics.
 
 <p align="center">
-    <img width="500" src="https://github.com/cloudvista/vaa/img/vaa-overview1.svg" alt="VAA Ovderview">
+<img width="500" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-overview1.svg">
 </p>
+
 
 
 
