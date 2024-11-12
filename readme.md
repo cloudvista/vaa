@@ -16,14 +16,12 @@ __Note__: The most important VistA Application used by VA clinical staff is the 
 <img width="500" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-overview1.svg">
 </p>
 
-
-
-
 #### Workflow Capture
 All of the VistA Application workflows (RPC traffic) of cloud-based VistA will be streamed to a cloud storage using the built-in traffic mirroring service in the AWS cloud.
 
+
 <p align="center">
-![vaa-capture](img/vaa-capture.svg)
+<img width="500" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg">
 </p>
 
 
@@ -36,11 +34,16 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
 
 
 <p align="center">
-![vaa-cloud](img/workflow-analytics.svg)
+<img width="500" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-analytics.svg">
 </p>
 
+
 #### Workflow Correlation
-![vaa-cloud](img/workflow-correlation.svg)
+
+<p align="center">
+<img width="500" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-correlation.svg">
+</p>
+
 
 
 #### Analytics Methods
