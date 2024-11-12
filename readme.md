@@ -17,7 +17,11 @@ __Note__: The most important VistA Application used by VA clinical staff is the 
 
 #### Workflow Capture
 All of the VistA Application workflows (RPC traffic) of cloud-based VistA will be streamed to a cloud storage using the built-in traffic mirroring service in the AWS cloud.
+
+<p align="center">
 ![vaa-capture](img/vaa-capture.svg)
+</p>
+
 
 #### Workflow Analytics
 Using the RPC traffic captured, multiple parallel analyses will occur.
@@ -26,7 +30,10 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
 4. Vista Documentation Library (VDL) analysis - parse and classify the screenshots and documentation of VistA Applications, which is the *documented workflow*.
 5. Workflow Correlation Analysis - Correlate the (1) actual screens based on live end-user screenshots (2) documented screens based on the VistA application user guides in the VistA Documenation Library (VDL)  (3) Actual workflow - based on LCS analyss of known RPC an their fuction.
 
+
+<p align="center">
 ![vaa-cloud](img/workflow-analytics.svg)
+</p>
 
 #### Workflow Correlation
 ![vaa-cloud](img/workflow-correlation.svg)
