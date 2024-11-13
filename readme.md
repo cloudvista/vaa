@@ -3,7 +3,7 @@
 ### Introduction
 To provide a modern, centralized cloud-based platform for veteran healthcare, VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified commercial cloud managed by Amazon Web Services. VA's new centralized cloud-based VistA ("Cloud VistA") provides many new features and capabilities to VistA and veteran care.
 
-By leveraging built-in traffic streaming capabilities of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
+By leveraging built-in cloud-based traffic streaming capabilities of VistA, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
 Today Veteran care is provided by VHA Staff using a suite of VistA applications (windows desktop applications), which process all their transactions on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA applications (clients) and VistA (server) encapsulate and describe all clinical care transactions and workflowss performed at a VHA medical center.
 
