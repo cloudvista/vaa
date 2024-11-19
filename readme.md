@@ -17,7 +17,7 @@ __Note__: The most important VistA Application used by VA clinical staff is the 
 </p>
 
 #### Workflow Capture
-All VistA Application workflows (RPC traffic) of cloud-based VistA is streamed to a cloud storage using the built-in traffic mirroring service in the AWS Cloud.
+All VistA Application workflows (RPC traffic) of cloud-based VistA is streamed to cloud storage using the built-in traffic mirroring service in the AWS Cloud.
 
 
 <p align="center">
