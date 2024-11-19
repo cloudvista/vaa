@@ -13,7 +13,7 @@ The Vista Application Analytics project calls for health care data experts to an
 __Note__: The most important VistA Application used by VA clinical staff is the Computerized Patient Record System (CPRS), and will therefore be the focus of the VistA application analytics.
 
 <p align="center">
-<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-overview1.svg">
+<img width="700" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-overview1.svg">
 </p>
 
 #### Workflow Capture
@@ -21,7 +21,7 @@ All VistA Application workflows (RPC traffic) of cloud-based VistA is streamed t
 
 
 <p align="center">
-<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg">
+<img width="700" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg">
 </p>
 
 
@@ -34,14 +34,14 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
 
 
 <p align="center">
-<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-analytics.svg">
+<img width="800" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-analytics.svg">
 </p>
 
 
 #### Workflow Correlation
 
 <p align="center">
-<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-correlation.svg">
+<img width="700" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-correlation.svg">
 </p>
 
 
