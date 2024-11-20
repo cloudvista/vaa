@@ -20,7 +20,7 @@ The Vista Application Analytics (VAA) project will engage VistA data experts to 
 __Note__: The main VistA Application used by all VHA clinical staff at all VA medical centers for veteran care is the Computerized Patient Record System (CPRS). The VAA project will therefore focus on CPRS workflows.
 
 <p align="center">
-<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-overview1.svg">
+<img width="500" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-overview1.svg">
 </p>
 
 #### Workflow Capture
