@@ -7,6 +7,10 @@ By leveraging the new cloud-based traffic streaming capabilities of cloud-based 
 
 Today Veteran care is provided by VHA Staff using a suite of VistA applications (windows desktop applications), which remotely access and process all their transactions on VistA via remote procedure calls (RPCs). Each day VistA Applications transmit over 200 million RPCs to create, store, and process over 4 million new documents, lab orders, pharmacy orders, and imaging studies in VistA. In aggregate, these RPCs between VistA Applications (clients) and VistA (server) describe all clinical care transactions performed at VHA medical centers.
 
+<p align="center">
+<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/vha-workflow1.png">
+</p>
+
 The Vista Application Analytics (VAA) project will engage VistA data experts to analyze the RPC traffic between VistA clients and three representative VistA servers. The analysis will be provided in a series of precise reports, detailing different aspect of VA care.  Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified classes of health care professional as well as the range of time spent on different tasks.  On completion, VHA will possess a set of concrete, actionable recommendations, and demonstrations for improving the care provided to Veterans as well as a guide for how to perform such analysis in the future.
 
 ### Overview of Analysis
