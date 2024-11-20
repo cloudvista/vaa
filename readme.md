@@ -10,7 +10,7 @@ Each day VHA clinical staff use a suite of VistA Applications (windows desktop a
 In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
 
 <p align="center">
-<img width="700" src="https://github.com/cloudvista/vaa/blob/main/img/vha-workflow.png">
+<img width="700" src="https://github.com/cloudvista/vaa/blob/main/img/vha-workflow1.png">
 </p>
 
 
