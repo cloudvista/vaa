@@ -10,7 +10,7 @@ Each day VHA clinical staff use a suite of VistA Applications (windows desktop a
 In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
 
 <p align="center">
-<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/vha-workflow-rpcs.png">
+<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/vha-workflow-rpcs1.png">
 </p>
 
 The Vista Application Analytics (VAA) project will engage VistA data experts to analyze the RPC traffic between VistA clients and three representative VistA servers. The analysis will be provided in a series of precise reports, detailing different aspect of VA care.  Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified classes of health care professional as well as the range of time spent on different tasks.  On completion, VHA will possess a set of concrete, actionable recommendations, and demonstrations for improving the care provided to Veterans as well as a guide for how to perform such analysis in the future.
