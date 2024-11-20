@@ -5,7 +5,9 @@ To provide a modern, centralized cloud-based platform for veteran healthcare, VA
 
 By leveraging the new cloud-based traffic streaming capabilities of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
-Today Veteran care is provided by VHA Staff using a suite of VistA applications (windows desktop applications), which remotely access and process all their transactions on VistA via remote procedure calls (RPCs). Each day VistA Applications transmit over 200 million RPCs to create, store, and process over 4 million new documents, lab orders, pharmacy orders, and imaging studies in VistA. In aggregate, these RPCs between VistA Applications (clients) and VistA (server) describe all clinical care transactions performed at VHA medical centers.
+### Background
+Each day VHA clinical staff use a suite of VistA Applications (windows desktop applications that are connected to VistA, including CPRS, JLV, and 40+ others) to create and process over 4 million new documents, lab orders, pharmacy orders, and imaging studies in VistA. All VistA Applications remotely access and process all their transactions on VistA via remote procedure calls (RPCs). 
+In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
 
 <p align="center">
 <img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/vha-workflow1.png">
