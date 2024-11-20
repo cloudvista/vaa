@@ -19,9 +19,6 @@ The Vista Application Analytics (VAA) project will engage VistA data experts to 
 
 __Note__: The main VistA Application used by all VHA clinical staff at all VA medical centers for veteran care is the Computerized Patient Record System (CPRS). The VAA project will therefore focus on CPRS workflows.
 
-<p align="center">
-<img width="400" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-overview1.svg">
-</p>
 
 #### Workflow Capture
 All VistA Application workflows (RPC traffic) of cloud-based VistA is streamed to cloud storage using the built-in traffic mirroring service in the AWS Cloud.
@@ -41,7 +38,7 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
 
 
 <p align="center">
-<img width="800" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-analytics.svg">
+<img width="700" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-analytics.svg">
 </p>
 
 
