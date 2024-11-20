@@ -5,12 +5,12 @@ To provide a modern, centralized cloud-based platform for veteran healthcare, VA
 
 By leveraging the new cloud-based traffic streaming capabilities of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
-Today Veteran care is provided by VHA Staff using a suite of VistA applications (windows desktop applications), which process all their transactions on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA applications (clients) and VistA (server) encapsulate and describe all clinical care transactions and workflowss performed at a VHA medical center.
+Today Veteran care is provided by VHA Staff using a suite of VistA applications (windows desktop applications), which remotely access and process all their transactions on VistA via remote procedure calls (RPCs). Each day VistA Applications transmit over 200 million RPCs to create, store, and process over 4 million new documents, lab orders, pharmacy orders, and imaging studies in VistA. In aggregate, these RPCs between VistA Applications (clients) and VistA (server) describe all clinical care transactions performed at VHA medical centers.
 
 The Vista Application Analytics (VAA) project will engage VistA data experts to analyze the RPC traffic between VistA clients and three representative VistA servers. The analysis will be provided in a series of precise reports, detailing different aspect of VA care.  Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified classes of health care professional as well as the range of time spent on different tasks.  On completion, VHA will possess a set of concrete, actionable recommendations, and demonstrations for improving the care provided to Veterans as well as a guide for how to perform such analysis in the future.
 
 ### Overview of Analysis
-__Note__: The most important VistA Application used by VA clinical staff is the Computerized Patient Record System (CPRS), and will therefore be the focus of the VistA application analytics.
+__Note__: The main VistA Application used by VHA clinical staff is the Computerized Patient Record System (CPRS), and will therefore be the focus of the VistA application analytics.
 
 <p align="center">
 <img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-overview1.svg">
