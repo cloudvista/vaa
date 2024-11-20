@@ -10,7 +10,7 @@ Today Veteran care is provided by VHA Staff using a suite of VistA applications 
 The Vista Application Analytics (VAA) project will engage VistA data experts to analyze the RPC traffic between VistA clients and three representative VistA servers. The analysis will be provided in a series of precise reports, detailing different aspect of VA care.  Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified classes of health care professional as well as the range of time spent on different tasks.  On completion, VHA will possess a set of concrete, actionable recommendations, and demonstrations for improving the care provided to Veterans as well as a guide for how to perform such analysis in the future.
 
 ### Overview of Analysis
-__Note__: The main VistA Application used by VHA clinical staff is the Computerized Patient Record System (CPRS), and will therefore be the focus of the VistA application analytics.
+__Note__: The main VistA Application used by all VHA clinical staff at all VA medical centers for veteran care is the Computerized Patient Record System (CPRS). The VAA project will therefore focus on CPRS workflows.
 
 <p align="center">
 <img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-overview1.svg">
