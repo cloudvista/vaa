@@ -36,7 +36,7 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
 
 
 <p align="center">
-<img width="700" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-analytics.svg">
+<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-analytics.svg">
 </p>
 
 
