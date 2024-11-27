@@ -110,9 +110,9 @@ gantt
 
 ```
 
-### Analysis of All VistA Client Traffic
+### Analysis of all VistA Applications
 
-Using the client traffic captured, the Analysis Team shall provide Traffic Analysis comprising all client traffic of all users for each of the three VistA systems. In addition, the Analysis Team shall provide a cross-VistA Analysis Report distinguishing cross-VistA from VistA-specific traffic patterns. All four reports (i.e. 3 Traffic Analysis Reports and 1 Cross VistA Analysis Report) will be composed in GitHub compatible markdown with embedded graphics where appropriate. The Analysis Team shall store all four reports as markdown in the VA Enterprise GitHub. 
+Using the client traffic captured, the Analysis Team will analyze all traffic of all VistA clients of all users of three VistA systems.  The Analysis Team shall also provide inter-VistA Analysis distinguishing common VistA traffic patterns from VistA-specific traffic patterns. 
 
 Traffic Analysis Report for each VistA shall characterize:  
 a)	User volume  
@@ -124,15 +124,15 @@ f)	RPC usage frequency and execution times
 g)	RPC groupings – representing transactions  
 h)	RPCs specific to a VistA from cross-VistA RPCs  
 
-DELIVERABLES:  
+Deliverables:  
 A.	Traffic Analysis Reports for three production VistAs  
 B.	Cross VistA Traffic Analysis Report
 
 
 
-### Analysis of Use of Key VistA Clients
+### Analysis of Key VistA Applications
 
-Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA point-of-care applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen after project start based on client usage. All three reports shall be composed in GitHub compatible markdown with embedded graphics where appropriate.  The Analysis Team shall store the three reports in a git in the VA Enterprise GitHub.   All client analyses must be validated and verifiable in a demonstrable way, matching RPC flows to specific client screens and typical tasks. The Contractor shall document the verification and validation of the analysis and provide a Client Traffic Analysis Validation and Verification Report. 
+Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA Applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen based on client usage. All client analyses must be validated and verifiable in a demonstrable way, matching RPC flows to specific client screens and typical tasks. The Analysis Team shall document the verification and validation of the analysis and provide a Client Traffic Analysis Validation and Verification Report. 
 
 The per Client Traffic Analysis shall include:  
 a)	User volumes and types. User types shall capture clinical care specialties and roles.  
@@ -154,16 +154,15 @@ A.	Three (3)  VistA Client Use Analysis Reports
 B.	Client Analysis Validation and Verification Report
 
 
-Note: This task requires the contractor to match the RPC traffic flows to client screens and tasks.  There will be a unique RPC flow associated with each task (login, logoff, ordering a medication, ordering a lab, writing notes, etc.). There will be hundreds of unique RPC flows - one for each interaction / task.   The contractor must explain HOW they will do this matching of RPC flows to client screens user tasks.  The contractor must also demonstrate that the matching of these RPC flows to specific screens and tasks are complete and correct.
-
+Note: This task requires the Analysis Team to match the RPC traffic flows to client screens and tasks.  There is a unique RPC sequence associated with each task (login, logoff, ordering a medication, ordering a lab, writing notes, etc.). There will be thousands of unique RPC sequence - one for each interaction / task.   The Analysis Team must also demonstrate that the matching of these RPC flows to specific screens and tasks are complete and correct.
 
 
 ### VistA Client Use Improvement
 
-Based solely   on the Client Use Analysis Reports, the Contractor shall provide recommendations to upgrade the use of the top three RPC-using Point-of-Care VistA Clients to deliver better clinical care. These recommendations shall be documented in Client Use Improvement Reports for each Client in Microsoft Word and a supporting PowerPoint presentation. 
+Based solely on the Client Use Analysis Reports, the Analysis Team shall provide recommendations to upgrade the use of the top three RPC-using VistA Clients to deliver better clinical care. These recommendations shall be documented in Client Use Improvement Reports.
 
 Deliverables:  
 A.	Client Use Improvement Reports  
 
 
-Note: This task requires the Analysis Team to provide recommendations to upgrade CPRS (and two other clients) to deliver better clinical care (more safe, more efficient, etc). These recommendations must come from soley the clinical workflow (RPC flows) analysis of section 5.2.3.
+Note: This task requires the Analysis Team to provide recommendations to upgrade CPRS (and two other clients) to deliver better clinical care (more safe, more efficient, etc). These recommendations must come from soley the clinical workflow (RPC flows) analysis.
