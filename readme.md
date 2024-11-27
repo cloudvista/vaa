@@ -23,7 +23,7 @@ __Note__: The main VistA Application used by all VHA clinical staff is the Compu
 All VistA Application workflows (RPC traffic flows) of cloud-based VistA are streamed to cloud storage using the built-in traffic mirroring service in the AWS Cloud.
 
 <p align="center">
-<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg">
+<img width="550" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg">
 </p>
 
 
@@ -36,14 +36,14 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
 
 
 <p align="center">
-<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-analytics.svg">
+<img width="550" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-analytics.svg">
 </p>
 
 
 ### Workflow Correlation
 
 <p align="center">
-<img width="600" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-correlation.svg">
+<img width="550" src="https://github.com/cloudvista/vaa/blob/main/img/workflow-correlation.svg">
 </p>
 
 
