@@ -66,6 +66,7 @@ __Base Period__
 2. Analysis of all VistA client traffic for three VistAs  
 3. Analysis of Key VistA clients  
 4. VistA client use improvement report  
+
 __Option Period__  
 1. Migrated VistA client traffic analysis (VistA client traffic at EHRM sites)  
 2. VistA Community Care client traffic analysis (JLV and others)
