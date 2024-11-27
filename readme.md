@@ -110,7 +110,7 @@ gantt
 
 ```
 
-## Composite Analysis: All VistA Application usage
+## VistA Client traffic analysis
 
 Using the client traffic captured, the Analysis Team will analyze all traffic of all VistA clients of all users of three VistA systems.  The Analysis Team shall also provide inter-VistA Analysis distinguishing common VistA traffic patterns from VistA-specific traffic patterns. 
 
@@ -130,7 +130,7 @@ B.	Cross VistA Traffic Analysis Report
 
 
 
-## Focused Analysis: Key VistA Application usage
+## Key VistA Client traffic analysis
 
 Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA Applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen based on client usage. All client analyses must be validated and verifiable in a demonstrable way, matching RPC flows to specific client screens and typical tasks. The Analysis Team shall document the verification and validation of the analysis and provide a Client Traffic Analysis Validation and Verification Report. 
 
