@@ -62,14 +62,14 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
 #### Schedule
 
 ```text
-BASE PERIOD
-1.	CAPTURE OF VISTA CLIENT TRAFFIC	
-2.	ANALYSIS OF VISTA CLIENT TRAFFIC
-3.	ANALYSIS OF USE OF KEY VISTA CLIENTS
-4.	VISTA CLIENT USE IMPROVEMENT REPORT
-OPTION PERIOD
-1.	MIGRATED VISTA CLIENT TRAFFIC ANALYSIS
-2.	VISTA COMMUNITY CARE CLIENT TRAFFIC ANALYSIS
+Base Period
+1.	Capture of VistA client traffic
+2.	Analysis of all VistA client traffic for three VistAs
+3.	Analysis of Key VistA clients
+4. VistA client use improvement report
+Option Period
+1.	Migrated VistA client traffic analysis (VistA client traffic at EHRM sites)
+2.	VistA Community Care client traffic analysis (JLV and others)
 ```
 
 
