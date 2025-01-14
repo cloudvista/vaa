@@ -22,6 +22,9 @@ All VistA Application workflows (RPC traffic flows) of cloud-based VistA are str
 
 ![](/img/vaa-implementation.png)
 
+![](img/implementation2.png)
+
+
 <p align="center">
 <img width="550" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg">
 </p>
