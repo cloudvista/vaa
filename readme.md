@@ -78,7 +78,9 @@ B.	Cross VistA Traffic Analysis Report
 
 ### Key VistA Client traffic analysis
 
-Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA Applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen based on client usage. All client analyses must be validated and verifiable in a demonstrable way, matching RPC flows to specific client screens and typical tasks. The Analysis Team shall document the verification and validation of the analysis and provide a Client Traffic Analysis Validation and Verification Report. 
+Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA Applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen based on client usage.   
+
+All client analyses must be validated and verifiable in a demonstrable way, matching RPC flows to specific client screens and typical tasks. The Analysis Team shall document the verification and validation of the analysis and provide a Client Traffic Analysis Validation and Verification Report. 
 
 The per Client Traffic Analysis shall include:  
 a)	User volumes and types. User types shall capture clinical care specialties and roles.  
@@ -100,7 +102,7 @@ A.	Three (3)  VistA Client Use Analysis Reports
 B.	Client Analysis Validation and Verification Report
 
 
-Note: This task requires the Analysis Team to match the RPC traffic flows to client screens and tasks.  There is a unique RPC sequence associated with each task (login, logoff, ordering a medication, ordering a lab, writing notes, etc.). There will be thousands of unique RPC sequence - one for each interaction / task.   The Analysis Team must also demonstrate that the matching of these RPC flows to specific screens and tasks are complete and correct.
+Note: This task requires the Analysis Team to match the RPC traffic flows to client screens and tasks.  There is a unique RPC sequence associated with each task (login, logoff, ordering a medication, ordering a lab, writing notes, etc.). There will be thousands of unique RPC sequence - one for each interaction / task.   The Analysis Team must demonstrate that the matching of these RPC sequences to specific screens and tasks are complete and correct.
 
 
 ### VistA Client Use Improvement
@@ -121,7 +123,8 @@ __Base Period__
 1. Capture of VistA client traffic  
 2. Analysis of all VistA client traffic for three VistAs  
 3. Analysis of Key VistA clients  
-4. VistA client use improvement report  
+4. VistA client use improvement report
+
 __Option Period__  
 1. Migrated VistA client traffic analysis (VistA client traffic at EHRM sites)  
 2. VistA Community Care client traffic analysis (JLV and others)
