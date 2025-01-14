@@ -1,12 +1,12 @@
 ![](img/vaa-overview4.png)
 
 ## Introduction
-To provide a modern, centralized cloud-based platform for veteran healthcare, VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified commercial cloud managed by Amazon Web Services. VA's new centralized cloud-based VistA ("Cloud VistA") provides many new features and capabilities to VistA and veteran care.
+To provide a modern, centralized cloud-based platform for veteran healthcare, VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified commercial cloud managed by Amazon Web Services. VA's new centralized cloud-based VistA ("Cloud VistA") platform provides many new features and capabilities to VistA and veteran care.
 
 By leveraging the new cloud-based traffic streaming capabilities of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
 ## Background
-Each day VHA clinical staff use a suite of VistA Applications to create and process over 4 million new documents, orders, and images in VistA. VistA Applications process all their transactions on VistA via remote procedure calls (RPCs).  In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
+Each day VHA clinical staff use a suite of VistA point-of-care Applications to create and process over 4 million new documents, orders, and images in VistA. VistA Applications process all their transactions on VistA via remote procedure calls (RPCs).  In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
 
 <p align="center">
 <img width="750" src="https://github.com/cloudvista/vaa/blob/main/img/vha-workflow.png">
