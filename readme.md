@@ -20,6 +20,8 @@ The Vista Application Analytics project will engage VistA data experts to analyz
 #### Workflow Capture
 All VistA Application workflows (RPC traffic flows) of cloud-based VistA are streamed to cloud storage using the built-in traffic mirroring service in the AWS Cloud.
 
+![](/img/vaa-implementation.png)
+
 <p align="center">
 <img width="550" src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg">
 </p>
