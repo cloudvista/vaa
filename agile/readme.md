@@ -15,6 +15,7 @@ Dr Rafael Richards - Director of VistA Application Analytics
 
 #### Epic Description
 
+
 #### To 
 achieve a process that is standardized, timely, transparent, coordinated, and effective.
 
