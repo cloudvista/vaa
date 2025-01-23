@@ -11,7 +11,7 @@ By leveraging the new cloud-based traffic streaming capabilities of cloud-based 
 ## Background
 Each day VHA clinical staff use a suite of VistA point-of-care Applications to create and process over 4 million new documents, orders, and images in VistA. VistA Applications process all their transactions on VistA via remote procedure calls (RPCs).  In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
 
-![](img/vha-workflow-overview.png)
+![](img/workflow-details.png)
 
 
 ## Overview of Analysis
