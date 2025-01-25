@@ -7,7 +7,7 @@ commercial cloud managed by Amazon Web Services. VA's new centralized cloud-base
 VA Health Cloud provides many new features and capabilities to VistA and veteran care.
 
 <p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/vista-to-vaec-4.svg" width="600" height="400" alt="VistA to VAEC">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/vista-to-vaec-4.svg" width="7500" height="500" alt="VistA to VAEC">
 </p>
 
 
