@@ -10,7 +10,7 @@ platform for VistA enables hundreds of new features and capabilities to VistA an
 ![](img/vista-to-vaec-4.svg)
 
 
-By leveraging the new cloud-based traffic streaming capabilities of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
+By leveraging the new cloud-based traffic streaming capability of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
 ## Background
 Each day VHA clinical staff use a suite of VistA point-of-care Applications to create and process over 4 million new documents, orders, and images in VistA. VistA Applications process all their transactions on VistA via remote procedure calls (RPCs).  In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
