@@ -46,6 +46,8 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
 
 ![](img/analytics-composite.svg)
 
+![](img/analytics-composite.svg){:style="display:block; margin:auto; width:400px; height:600px"}
+
 
 #### Workflow Correlation
 
