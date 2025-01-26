@@ -3,8 +3,8 @@
 ## Introduction
 To provide a modern, centralized cloud-based platform for veteran healthcare, 
 VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified 
-commercial cloud managed by Amazon Web Services (AWS). This new centralized AWS Cloud-based
-platform for VistA enables many new features and capabilities to VistA and veteran care.
+commercial cloud managed by Amazon Web Services (AWS). This new centralized AWS-based cloud
+platform for VistA enables hundreds of new features and capabilities to VistA and veteran care. (see: [Overview of AWS](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html) )
 
 
 ![](img/vista-to-vaec-4.svg)
