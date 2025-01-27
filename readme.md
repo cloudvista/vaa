@@ -6,7 +6,7 @@ To provide a modern, centralized cloud-based platform for veteran healthcare del
 In and of itself, this migration ("lift-and-shift") of VistA to the AWS Cloud does not change VistA or any end user functionality of VistA. However, this new centralized AWS-based platform for VistA provides hundreds of new features and capabilities to improve veteran care efficiency and access. 
 
 <p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/vista-to-vaec-4.svg" width="700" height="500">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/vista-to-vaec-4.svg" width="700">
 </p>
 
 
@@ -16,7 +16,7 @@ By leveraging the new cloud-based traffic streaming capability of AWS-based Vist
 Each day VHA clinical staff use a suite of VistA point-of-care Applications to create and process over 4 million new documents, orders, and images in VistA. VistA Applications process all their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
 
 <p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-details.png" width="700" height="500">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-details.png" width="700">
 </p>
 
 
