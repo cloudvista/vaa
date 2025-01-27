@@ -6,13 +6,9 @@ To provide a modern, centralized cloud-based platform for veteran healthcare del
 In and of itself, this migration ("lift-and-shift") of VistA to the AWS Cloud does not change VistA or any end user functionality of VistA. However, this new centralized AWS-based platform for VistA provides hundreds of new features and capabilities to improve veteran care efficiency and access. 
 
 <p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/vista-to-vaec-4.svg" 
-        width="600" height="400" 
-        alt="Image description">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/vista-to-vaec-4.svg" width="700" height="500">
 </p>
 
-
-![](img/vista-to-vaec-4.svg)
 
 By leveraging the new cloud-based traffic streaming capability of AWS-based VistA, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
