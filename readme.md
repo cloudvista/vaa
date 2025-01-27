@@ -33,7 +33,7 @@ All VistA Application workflows (RPC traffic flows) of cloud-based VistA are str
 
 
 <p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg" width="600">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg" width="700">
 </p>
 
 
@@ -47,14 +47,14 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
 
 
 <p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/analytics-composite.svg" width="600">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/analytics-composite.svg" width="700">
 </p>
 
 
 #### Workflow Correlation
 
 <p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/analytics-correlation.svg" width="600">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/analytics-correlation.svg" width="700">
 </p>
 
 
