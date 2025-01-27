@@ -1,4 +1,4 @@
-the![](img/intro.png)
+![](img/intro.png)
 
 ## Introduction
 To provide a modern, centralized cloud-based platform for veteran healthcare delivery, VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified commercial cloud managed by Amazon Web Services (AWS).  
