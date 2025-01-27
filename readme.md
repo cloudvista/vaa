@@ -50,9 +50,6 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
     <img src="https://github.com/cloudvista/vaa/blob/main/img/analytics-composite.svg" width="700">
 </p>
 
-
-#### Workflow Correlation
-
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/analytics-correlation.svg" width="700">
 </p>
