@@ -1,8 +1,15 @@
 ![](img/intro.png)
 
 ## Introduction
-To provide a modern, centralized cloud-based platform for veteran healthcare delivery, VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified commercial cloud managed by Amazon Web Services (AWS).  
+Each day VHA clinical staff use a suite of VistA point-of-care Applications to create and process over 4 million new documents, orders, and images in VistA. VistA Applications process all their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
 
+<p align="center">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-simple.svg" width="700">
+</p>
+
+
+## Background
+To provide a modern, centralized cloud-based platform for veteran healthcare delivery, VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified commercial cloud managed by Amazon Web Services (AWS).
 By itsself, this migration ("lift-and-shift") of VistA to the AWS Cloud does not change VistA or any end-user functionality. However, this new AWS-based platform for VistA provides over 200 new features and capabilities to VistA that can be used to improve veteran care efficiency and access. (See: [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html))
 
 <p align="center">
@@ -12,21 +19,6 @@ By itsself, this migration ("lift-and-shift") of VistA to the AWS Cloud does not
 
 By leveraging VistA's new AWS cloud-based traffic streaming capability, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
-## Background
-Each day VHA clinical staff use a suite of VistA point-of-care Applications to create and process over 4 million new documents, orders, and images in VistA. VistA Applications process all their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
-
-<p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-simple.svg" width="700">
-</p>
-
-
-## Overview of Analysis
-The Vista Application Analytics project will engage VistA data experts to analyze the RPC traffic between VistA clients and three representative Cloud VistA servers.  
-
-The analysis will be provided in a series of precise reports, detailing different aspect of VA care. Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified classes of health care professional as well as the range of time spent on different tasks.  
-
-On completion, VHA will possess a set of concrete, actionable recommendations, and demonstrations for improving the care provided to Veterans as well as a guide for how to perform such analysis in the future. 
-
 
 #### Workflow Capture
 All VistA Application workflows (RPC traffic flows) of cloud-based VistA are streamed to cloud storage using the built-in traffic mirroring service in the AWS Cloud.
@@ -35,6 +27,15 @@ All VistA Application workflows (RPC traffic flows) of cloud-based VistA are str
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg" width="700">
 </p>
+
+
+
+## Overview of Analysis
+The Vista Application Analytics project will engage VistA data experts to analyze the RPC traffic between VistA clients and three representative Cloud VistA servers.  
+
+The analysis will be provided in a series of precise reports, detailing different aspect of VA care. Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified classes of health care professional as well as the range of time spent on different tasks.  
+
+On completion, VHA will possess a set of concrete, actionable recommendations, and demonstrations for improving the care provided to Veterans as well as a guide for how to perform such analysis in the future. 
 
 
 
