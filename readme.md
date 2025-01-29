@@ -13,7 +13,7 @@ By itsself, this migration ("lift-and-shift") of VistA to the AWS Cloud does not
 By leveraging VistA's new AWS cloud-based traffic streaming capability, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
 ## Background
-Each day VHA clinical staff use a suite of VistA point-of-care Applications ("VistA Applications") to create and process over 4 million new documents, orders, labs, and images in VistA. VistA Applications process all their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
+Each day 180,000 VHA clinical staff use a suite of VistA point-of-care Applications ("VistA Applications") to process 200 million transactions and create over 4 million new documents, orders, labs, and images in VistA. VistA Applications process all their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
 
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-simple.svg" width="700">
