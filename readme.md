@@ -10,6 +10,45 @@ __Efficiency__
 4. The Alert When Results Feature is great to see targeted consult/test results, but there is so much lag with this feature before the results pop up...drives you nuts.
 5. The Log in process for CPRS in general is really, really painful. (a)  When you first try to load it, you get no indication anything is happening, which leads you to believe you did not doube click the icon...if you do this again, then (b) eventually you will have 2 sessions loading, which you cannot back out of initially, drives you nuts.  Then, (c) when the PIV authentication happens, this is MINIMIZED in your screen backgrounds, so if you have 2 monitors with displays full (like email and TEAMS on each screen), when the PIV authentication happens, (d) you have no idea as it opens behind these screens.  If you fail to notice after enough time, (e) your login attempt is timed out.  Super annoying as there is a (f) big lag between trying to open CPRS and getting the PIV authentication screen,(g)  so you are held hostage...either do nothing and sit there twiddling your thumbs, or get to work and realize you may miss the window to find the authentication pop up
 
+## Detailed Analysis
+
+#### VistA Client traffic analysis
+Using the client traffic captured, the Analysis Team will analyze all traffic of all VistA clients of all users of three VistA systems.  
+The Analysis Team shall also provide inter-VistA Analysis distinguishing common VistA traffic patterns from VistA-specific traffic patterns. 
+
+Traffic Analysis Report for each VistA shall characterize:  
+a)	User volume  
+b)	Client types and volume of use  
+c)	Connection volumes, frequency, and duration  
+d)	Types of user authentication/security and relative use  
+e)	Machine from end Users  
+f)	RPC usage frequency and execution times  
+g)	RPC groupings – representing transactions  
+h)	RPCs specific to a VistA from cross-VistA RPCs  
+
+Deliverables:  
+A.	Traffic Analysis Reports for three production VistAs  
+B.	Cross VistA Traffic Analysis Report
+
+
+#### Key VistA Client traffic analysis
+Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA Applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen based on client usage.  
+
+The per Client Traffic Analysis shall include:  
+a)	User volumes and types. User types shall capture clinical care specialties and roles.  
+b)	Connection volume and duration, tying frequency of client use to user types  
+c)	Types of user authentication/security and relative use  
+d)	Patient volumes  
+e)	Enumeration of all RPCs used by a client and their relative use  
+f)	Distinction of clinical from non-clinical RPCs  
+g)	Distinction of RPCs that change (write) from those that read the clinical record  
+h)	Distinction of slow running, high overhead and variable overhead RPCs  
+i)	Clinical care task sets, represented as groups of RPCs used in tandem  
+j)	Match task sets with the use of one or more specific client screens  
+k)	Task sets employed by different user types  
+l)	Isolate performance issues with patterns of use that slow care  
+m)	Verification and validation that the analysis accurately captures care provision  
+
 
 ## Background
 Each day across VA clinical staff use a suite of VistA point-of-care applications to create and process over 50 million clinical reminders, documents, orders, labs, and images in VistA. All VistA Applications process their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
