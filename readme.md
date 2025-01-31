@@ -3,10 +3,10 @@
 ## Analysis Scope
 
 #### VistA Traffic Analysis
-The VAA Analysis Team will analyze __all__ traffic of __all__ VistA clients of __all__ users of three VistA systems. 
-The Analysis Team shall also provide __inter-VistA__ analysis distinguishing common VistA traffic patterns from VistA-specific traffic patterns.
+The VAA Analysis Team will analyze *all traffic* of *all VistA clients* of *all users* of three VistA systems. 
+The Analysis Team shall also provide *inter-VistA traffic analysis*  distinguishing common VistA traffic patterns from VistA-specific traffic patterns.
 
-Traffic Analysis Report for each VistA shall characterize:  
+Traffic Analysis for each VistA shall characterize:  
 a)	User volume  
 b)	Client types and volume of use  
 c)	Connection volumes, frequency, and duration  
@@ -21,8 +21,8 @@ A.	Traffic Analysis Reports for three production VistAs
 B.	Cross VistA Traffic Analysis Report
 
 
-#### Key VistA Client traffic analysis
-Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA Applications ("Clients"). 
+#### Analysis of Key VistA Clients
+Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team will analyze the operation of three of the most used VistA Applications ("Clients"). 
 CPRS shall be one of the three; the remaining two shall be chosen based on client usage.  
 
 The per Client Traffic Analysis shall include:  
