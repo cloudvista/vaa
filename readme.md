@@ -1,6 +1,22 @@
 ![](img/intro.png)
 
-## Introduction
+## Use Cases
+
+My pain points are several.  In terms of lag/latency, here are my biggies:   
+1. Cover sheet takes FOREVER to load (suspect I am asking a lot of it, but drives me nuts, to the point that I do not load into this tab when selecting a new patient...load in on Notes tab and cringe when I need to tab over to Cover Sheet as I will face considerable lag).
+2. When I am switching over from Visit Pending Notes to my GMC--Attending Note in CPRS, there are numerous episodes of lag associated with all the steps in doing this.  Can show if you if you like.
+3. Certain large national TIU note templates lag, like TRVC consults.
+4. The Alert When Results Feature is great to see targeted consult/test results, but there is much lag with this feature before the results pop up...drives you nuts.
+5. The Log in process for CPRS in general is really, really painful.  When you first try to load it, you get no indication anything is happening, which leads you to believe you did not doube click the icon...if you do this again, then eventually you will have 2 sessions loading, which you cannot back out of initially, drives you nuts.  Then, when the PIV authentication happens, this is MINIMIZED in your screen backgrounds, so if you have 2 monitors with displays full (like email and TEAMS on each screen), when the PIV authentication happens, you have no idea as it opens behind these screens.  If you fail to notice after enough time, your login attempt is timed out.  Super annoying as there is a big lag between trying to open CPRS and getting the PIV authentication screen, so you are held hostage...either do nothing and sit there twiddling your thumbs, or get to work and realize you may miss the window to find the authentication pop up
+
+
+## Background
+Each day across VA clinical staff use a suite of VistA point-of-care applications to create and process over 50 million clinical reminders, documents, orders, labs, and images in VistA. All VistA Applications process their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
+
+<p align="center">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-simple.svg" width="700">
+</p>
+
 To provide a modern, centralized cloud-based platform for veteran healthcare delivery, VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified commercial cloud managed by Amazon Web Services (AWS).  
 
 By itsself, this migration ("lift-and-shift") of VistA to the AWS Cloud does not change VistA or any end-user functionality. However, VistA's new platform in the AWS Cloud provides over 200 new features and capabilities to VistA that can be used to improve veteran care quality, efficiency, and access. (See: [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html))
@@ -12,22 +28,13 @@ By itsself, this migration ("lift-and-shift") of VistA to the AWS Cloud does not
 
 By leveraging VistA's new AWS cloud-based traffic streaming capability, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
-## Background
-Each day across VA clinical staff use a suite of VistA point-of-care applications to create and process over 50 million clinical reminders, documents, orders, labs, and images in VistA. All VistA Applications process their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
-
-<p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-simple.svg" width="700">
-</p>
-
 
 #### Workflow Capture
 All VistA Application workflows (RPC traffic flows) of cloud-based VistA are streamed to cloud storage using the built-in traffic mirroring service in the AWS Cloud.
 
-
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/vaa-capture.svg" width="700">
 </p>
-
 
 
 ## Overview of Analysis
