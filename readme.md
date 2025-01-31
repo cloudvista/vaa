@@ -2,9 +2,9 @@
 
 ## Analysis Scope
 
-#### VistA Client traffic analysis
-Using the client traffic captured, the Analysis Team will analyze all traffic of all VistA clients of all users of three VistA systems.  
-The Analysis Team shall also provide inter-VistA Analysis distinguishing common VistA traffic patterns from VistA-specific traffic patterns. 
+#### VistA Traffic Analysis
+The VAA Analysis Team will analyze __all__ traffic of __all__ VistA clients of __all__ users of three VistA systems. 
+The Analysis Team shall also provide __inter-VistA__ analysis distinguishing common VistA traffic patterns from VistA-specific traffic patterns.
 
 Traffic Analysis Report for each VistA shall characterize:  
 a)	User volume  
@@ -22,7 +22,8 @@ B.	Cross VistA Traffic Analysis Report
 
 
 #### Key VistA Client traffic analysis
-Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA Applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen based on client usage.  
+Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA Applications ("Clients"). 
+CPRS shall be one of the three; the remaining two shall be chosen based on client usage.  
 
 The per Client Traffic Analysis shall include:  
 a)	User volumes and types. User types shall capture clinical care specialties and roles.  
@@ -41,7 +42,7 @@ m)	Verification and validation that the analysis accurately captures care provis
 
 
 ## Specific Use Cases
-Below are real-world uses cases where VAA can analyze in detail the workflows in question.  
+Below are real-world uses cases where VAA can provide concrete detailed actionable information. 
 This list continues to expand.
 
 __Efficiency__     
