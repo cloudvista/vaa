@@ -1,5 +1,12 @@
 ![](img/intro.png)
 
+## Background
+Each day across VA clinical staff use a suite of VistA point-of-care applications to create and process over 50 million clinical reminders, documents, orders, labs, and images in VistA. All VistA Applications process their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
+
+<p align="center">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-simple.svg" width="700">
+</p>
+
 ## Analysis Scope
 
 #### VistA Traffic Analysis
@@ -53,20 +60,12 @@ __Efficiency__
 5. The Log in process for CPRS in general is really, really painful. (a)  When you first try to load it, you get no indication anything is happening, which leads you to believe you did not doube click the icon...if you do this again, then (b) eventually you will have 2 sessions loading, which you cannot back out of initially, drives you nuts.  Then, (c) when the PIV authentication happens, this is MINIMIZED in your screen backgrounds, so if you have 2 monitors with displays full (like email and TEAMS on each screen), when the PIV authentication happens, (d) you have no idea as it opens behind these screens.  If you fail to notice after enough time, (e) your login attempt is timed out.  Super annoying as there is a (f) big lag between trying to open CPRS and getting the PIV authentication screen,(g)  so you are held hostage...either do nothing and sit there twiddling your thumbs, or get to work and realize you may miss the window to find the authentication pop up
 
 
-
-## Background
-Each day across VA clinical staff use a suite of VistA point-of-care applications to create and process over 50 million clinical reminders, documents, orders, labs, and images in VistA. All VistA Applications process their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
-
-<p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-simple.svg" width="700">
-</p>
-
+## Analytics Approach
 To provide a modern, centralized cloud-based platform for veteran healthcare delivery, VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified commercial cloud managed by Amazon Web Services (AWS). By itsself, this migration ("lift-and-shift") of VistA to the AWS Cloud does not change VistA or any end-user functionality. However, VistA's new platform in the AWS Cloud provides over 200 new features and capabilities to VistA that can be used to improve veteran care quality, efficiency, and access. (See: [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html))
 
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/vista-to-vaec.svg" width="700">
 </p>
-
 
 By leveraging VistA's new AWS cloud-based traffic streaming capability, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
