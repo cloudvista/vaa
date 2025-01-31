@@ -21,11 +21,11 @@ A.	Traffic Analysis Reports for three production VistAs
 B.	Cross VistA Traffic Analysis Report
 
 
-#### Analysis of Key VistA Clients
-Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team will analyze the operation of three of the most used VistA Applications ("Clients"). 
+#### VistA Client Traffic Analysis
+Based on the traffic and client types isolated in the VistA traffic analysis, the Analysis Team will analyze the operation of three of the most used VistA Applications ("Clients"). 
 CPRS shall be one of the three; the remaining two shall be chosen based on client usage.  
 
-The per Client Traffic Analysis shall include:  
+The per Client Traffic Analysis will include:  
 a)	User volumes and types. User types shall capture clinical care specialties and roles.  
 b)	Connection volume and duration, tying frequency of client use to user types  
 c)	Types of user authentication/security and relative use  
@@ -34,16 +34,16 @@ e)	Enumeration of all RPCs used by a client and their relative use
 f)	Distinction of clinical from non-clinical RPCs  
 g)	Distinction of RPCs that change (write) from those that read the clinical record  
 h)	Distinction of slow running, high overhead and variable overhead RPCs  
-i)	Clinical care task sets, represented as groups of RPCs used in tandem  
+i)	Clinical care task sets, represented as groups of RPCs used to perform specific clinical tasks  
 j)	Match task sets with the use of one or more specific client screens  
-k)	Task sets employed by different user types  
+k)	Task sets employed by different user types  (nursing, physician, and all identifiable specialties)
 l)	Isolate performance issues with patterns of use that slow care  
 m)	Verification and validation that the analysis accurately captures care provision  
 
 
-## Specific Use Cases
-Below are real-world uses cases where VAA can provide concrete detailed actionable information. 
-This list continues to expand.
+## Use Cases
+Below are real-world uses cases where VistA Application Analytics can provide detailed actionable information. 
+(This list continues to expand over time)
 
 __Efficiency__     
 1. Cover sheet takes FOREVER to load (This drives me nuts, to the point that I do not load into this tab when selecting a new patient. Instead I load in on Notes tab and cringe when I need to tab over to Cover Sheet as I will face considerable lag).
