@@ -1,7 +1,7 @@
 ![](img/intro.png)
 
 ## Background
-Each day across VA clinical staff use a suite of VistA point-of-care applications to create and process over 50 million clinical reminders, documents, orders, labs, and images in VistA. All VistA Applications process their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
+Each day across VA clinical staff use a suite of VistA point-of-care applications to create and process over 200 million clinical reminders, documents, orders, labs, images, and transactions in VistA. All VistA Applications process their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
 
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-overview.svg" width="600">
