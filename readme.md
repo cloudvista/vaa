@@ -1,16 +1,15 @@
 ![](img/intro.png)
 
 ## Background
-Each day across VA clinical staff use a suite of VistA point-of-care applications to create and process over 200 million clinical reminders, documents, orders, labs, images, and transactions in VistA. All VistA Applications process their transactions remotely on VistA via remote procedure calls (RPCs). In aggregate, these remote procedure calls between VistA Applications and VistA describe all clinical care transactions and workflow performed at VHA medical centers.
+Each day across VA clinical staff use a suite of VistA Applications (VistA clients) to create and process over 50 million clinical documents, orders, labs, images, reminders, and transactions in VistA. All VistA Applications process their transactions remotely on VistA via remote procedure calls. In aggregate, these remote procedure calls (RPCs) between VistA clients and VistA describe all clinical care transactions and workflows performed at VHA medical centers.
 
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-overview.svg" width="600">
 </p>
 
-## Analysis Scope
 
-#### VistA Traffic Analysis
-The VAA Analysis Team will analyze *all traffic* of *all VistA clients* of *all users* of three VistA systems. 
+#### VistA Application Analysis
+The VistA Application Analysis team will analyze *all traffic* of *all VistA clients* of *all users* of three VistA systems. 
 The Analysis Team shall also provide *inter-VistA traffic analysis*  distinguishing common VistA traffic patterns from VistA-specific traffic patterns.
 
 Traffic Analysis for each VistA shall characterize:  
