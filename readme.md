@@ -7,6 +7,17 @@ Each day across VA clinical staff use a suite of VistA Applications (Windows des
     <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-overview.svg" width="700">
 </p>
 
+## VAA Use Cases
+Below are use cases of VistA Application Analytics to provide actionable insight on VHA clinical workflows. 
+
+
+__Efficiency__     
+1. Cover sheet takes FOREVER to load (This drives me nuts, to the point that I do not load into this tab when selecting a new patient. Instead I load in on Notes tab and cringe when I need to tab over to Cover Sheet as I will face considerable lag).
+2. When I am switching over from Visit Pending Notes to my GMC--Attending Note in CPRS, there are numerous episodes of lag associated with all the steps in doing this.
+3. Certain large national TIU note templates lag, like TRVC consults.
+4. The Alert When Results Feature is great to see targeted consult/test results, but there is so much lag with this feature before the results pop up...drives you nuts.
+5. The Log in process for CPRS in general is really, really painful. (a)  When you first try to load it, you get no indication anything is happening, which leads you to believe you did not doube click the icon...if you do this again, then (b) eventually you will have 2 sessions loading, which you cannot back out of initially, drives you nuts.  Then, (c) when the PIV authentication happens, this is MINIMIZED in your screen backgrounds, so if you have 2 monitors with displays full (like email and TEAMS on each screen), when the PIV authentication happens, (d) you have no idea as it opens behind these screens.  If you fail to notice after enough time, (e) your login attempt is timed out.  Super annoying as there is a (f) big lag between trying to open CPRS and getting the PIV authentication screen,(g)  so you are held hostage...either do nothing and sit there twiddling your thumbs, or get to work and realize you may miss the window to find the authentication pop up
+
 
 #### VistA Application Analysis
 The VistA Application Analysis team will analyze *all traffic* of *all VistA clients* of *all users* of three VistA systems. 
@@ -46,17 +57,6 @@ k)	Task sets employed by different user types  (nursing, physician, and all iden
 l)	Isolate performance issues with patterns of use that slow care  
 m)	Verification and validation that the analysis accurately captures care provision  
 
-
-## Use Cases
-Below are real-world uses cases where VistA Application Analytics can provide detailed actionable information. 
-(This list continues to expand over time)
-
-__Efficiency__     
-1. Cover sheet takes FOREVER to load (This drives me nuts, to the point that I do not load into this tab when selecting a new patient. Instead I load in on Notes tab and cringe when I need to tab over to Cover Sheet as I will face considerable lag).
-2. When I am switching over from Visit Pending Notes to my GMC--Attending Note in CPRS, there are numerous episodes of lag associated with all the steps in doing this.
-3. Certain large national TIU note templates lag, like TRVC consults.
-4. The Alert When Results Feature is great to see targeted consult/test results, but there is so much lag with this feature before the results pop up...drives you nuts.
-5. The Log in process for CPRS in general is really, really painful. (a)  When you first try to load it, you get no indication anything is happening, which leads you to believe you did not doube click the icon...if you do this again, then (b) eventually you will have 2 sessions loading, which you cannot back out of initially, drives you nuts.  Then, (c) when the PIV authentication happens, this is MINIMIZED in your screen backgrounds, so if you have 2 monitors with displays full (like email and TEAMS on each screen), when the PIV authentication happens, (d) you have no idea as it opens behind these screens.  If you fail to notice after enough time, (e) your login attempt is timed out.  Super annoying as there is a (f) big lag between trying to open CPRS and getting the PIV authentication screen,(g)  so you are held hostage...either do nothing and sit there twiddling your thumbs, or get to work and realize you may miss the window to find the authentication pop up
 
 
 ## Analytics Approach
