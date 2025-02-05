@@ -117,10 +117,6 @@ Deliverables:
 A.	Client Use Improvement Reports  
 
 
-Note: This task requires the Analysis Team to provide recommendations to upgrade CPRS (and two other clients) to deliver better clinical care (more safe, more efficient, etc). These recommendations must come from soley the clinical workflow (RPC flows) analysis.
-
-
-
 ## Schedule
 
 __Base Period__  
