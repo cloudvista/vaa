@@ -60,8 +60,8 @@ Using the RPC traffic captured, multiple parallel analyses will occur.
 
 
 #### VistA Client Traffic Analysis
-The VAA team will analyze *all traffic* of *all VistA clients* of *all users* of three VistA systems. 
-The Analysis Team shall also provide *inter-VistA traffic analysis*  distinguishing common VistA traffic patterns from VistA-specific traffic patterns.
+The VAA team will analyze *all traffic* of *all users* of *all VistA clients* for three VistA systems. 
+The Analysis Team will also provide *inter-VistA traffic analysis*, distinguishing common (enterprise, standardized) VistA traffic patterns from VistA-specific (local, specialized) traffic patterns.
 
 Traffic Analysis for each VistA shall characterize:  
 a)	User volume  
