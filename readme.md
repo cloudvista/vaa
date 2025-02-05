@@ -7,18 +7,6 @@ Each day across VA clinical staff use a suite of VistA Applications (Windows des
     <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-overview.svg" width="700">
 </p>
 
-## VAA Use Cases
-Below are use cases of VistA Application Analytics to provide actionable insight on VHA clinical workflows. 
-
-
-__Efficiency__     
-1. Cover sheet takes FOREVER to load (This drives me nuts, to the point that I do not load into this tab when selecting a new patient. Instead I load in on Notes tab and cringe when I need to tab over to Cover Sheet as I will face considerable lag).
-2. When I am switching over from Visit Pending Notes to my GMC--Attending Note in CPRS, there are numerous episodes of lag associated with all the steps in doing this.
-3. Certain large national TIU note templates lag, like TRVC consults.
-4. The Alert When Results Feature is great to see targeted consult/test results, but there is so much lag with this feature before the results pop up...drives you nuts.
-5. The Log in process for CPRS in general is really, really painful. (a)  When you first try to load it, you get no indication anything is happening, which leads you to believe you did not doube click the icon...if you do this again, then (b) eventually you will have 2 sessions loading, which you cannot back out of initially, drives you nuts.  Then, (c) when the PIV authentication happens, this is MINIMIZED in your screen backgrounds, so if you have 2 monitors with displays full (like email and TEAMS on each screen), when the PIV authentication happens, (d) you have no idea as it opens behind these screens.  If you fail to notice after enough time, (e) your login attempt is timed out.  Super annoying as there is a (f) big lag between trying to open CPRS and getting the PIV authentication screen,(g)  so you are held hostage...either do nothing and sit there twiddling your thumbs, or get to work and realize you may miss the window to find the authentication pop up
-
-
 ## Analytics Approach
 To provide a modern, centralized cloud-based platform for veteran healthcare delivery, VA has migrated all VistA systems to the VA Enterprise Cloud, a federally certified commercial cloud managed by Amazon Web Services (AWS). By itsself, this migration of VistA to the AWS Cloud ("lift-and-shift") does not change VistA any applications or functionality. However, VistA's new platform in the AWS Cloud provides over 200 new features and capabilities to VistA that can be used to improve veteran care quality, efficiency, and access. (See: [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html))
 
@@ -41,7 +29,6 @@ All VistA Application workflows (RPC traffic flows) of cloud-based VistA are str
 The Vista Application Analytics project will engage VistA data experts to analyze the RPC traffic between VistA clients and three representative Cloud VistA servers.   The analysis will be provided in a series of precise reports, detailing different aspect of VA care. Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified classes of health care professional as well as the range of time spent on different tasks.  
 
 On completion, VHA will possess a set of concrete, actionable recommendations, and demonstrations for improving the care provided to Veterans as well as a guide for how to perform such analysis in the future. 
-
 
 
 #### Workflow Analytics
@@ -111,52 +98,16 @@ l)	Isolate performance issues with patterns of use that slow care
 m)	Verification and validation that the analysis accurately captures care provision  
 
 
-
-### VistA Client traffic analysis
-
-Using the client traffic captured, the Analysis Team will analyze all traffic of all VistA clients of all users of three VistA systems.  The Analysis Team shall also provide inter-VistA Analysis distinguishing common VistA traffic patterns from VistA-specific traffic patterns. 
-
-Traffic Analysis Report for each VistA shall characterize:  
-a)	User volume  
-b)	Client types and volume of use  
-c)	Connection volumes, frequency, and duration  
-d)	Types of user authentication/security and relative use  
-e)	Machine from end Users  
-f)	RPC usage frequency and execution times  
-g)	RPC groupings – representing transactions  
-h)	RPCs specific to a VistA from cross-VistA RPCs  
-
-Deliverables:  
-A.	Traffic Analysis Reports for three production VistAs  
-B.	Cross VistA Traffic Analysis Report
+## VAA Use Cases
+Below are use cases of VistA Application Analytics to provide actionable insight on VHA clinical workflows. 
 
 
-### Key VistA Client traffic analysis
-
-Based on the traffic and client types isolated during the VistA traffic analysis, the Analysis Team shall produce a detailed Client Traffic Analysis of the operation of three of the most used VistA Applications ("Clients"). CPRS shall be one of the three; the remaining two shall be chosen based on client usage.   
-
-All client analyses must be validated and verifiable in a demonstrable way, matching RPC flows to specific client screens and typical tasks. The Analysis Team shall document the verification and validation of the analysis and provide a Client Traffic Analysis Validation and Verification Report. 
-
-The per Client Traffic Analysis shall include:  
-a)	User volumes and types. User types shall capture clinical care specialties and roles.  
-b)	Connection volume and duration, tying frequency of client use to user types  
-c)	Types of user authentication/security and relative use  
-d)	Patient volumes  
-e)	Enumeration of all RPCs used by a client and their relative use  
-f)	Distinction of clinical from non-clinical RPCs  
-g)	Distinction of RPCs that change (write) from those that read the clinical record  
-h)	Distinction of slow running, high overhead and variable overhead RPCs  
-i)	Clinical care task sets, represented as groups of RPCs used in tandem  
-j)	Match task sets with the use of one or more specific client screens  
-k)	Task sets employed by different user types  
-l)	Isolate performance issues with patterns of use that slow care  
-m)	Verification and validation that the analysis accurately captures care provision  
-
-Deliverables:  
-A.	Three (3)  VistA Client Use Analysis Reports  
-B.	Client Analysis Validation and Verification Report
-
-Note: This task requires the Analysis Team to match the RPC traffic flows to client screens and tasks.  There is a unique RPC sequence associated with each task (login, logoff, ordering a medication, ordering a lab, writing notes, etc.). There will be thousands of unique RPC sequence - one for each interaction / task.   The Analysis Team must demonstrate that the matching of these RPC sequences to specific screens and tasks are complete and correct.
+__Efficiency__     
+1. Cover sheet takes FOREVER to load (This drives me nuts, to the point that I do not load into this tab when selecting a new patient. Instead I load in on Notes tab and cringe when I need to tab over to Cover Sheet as I will face considerable lag).
+2. When I am switching over from Visit Pending Notes to my GMC--Attending Note in CPRS, there are numerous episodes of lag associated with all the steps in doing this.
+3. Certain large national TIU note templates lag, like TRVC consults.
+4. The Alert When Results Feature is great to see targeted consult/test results, but there is so much lag with this feature before the results pop up...drives you nuts.
+5. The Log in process for CPRS in general is really, really painful. (a)  When you first try to load it, you get no indication anything is happening, which leads you to believe you did not doube click the icon...if you do this again, then (b) eventually you will have 2 sessions loading, which you cannot back out of initially, drives you nuts.  Then, (c) when the PIV authentication happens, this is MINIMIZED in your screen backgrounds, so if you have 2 monitors with displays full (like email and TEAMS on each screen), when the PIV authentication happens, (d) you have no idea as it opens behind these screens.  If you fail to notice after enough time, (e) your login attempt is timed out.  Super annoying as there is a (f) big lag between trying to open CPRS and getting the PIV authentication screen,(g)  so you are held hostage...either do nothing and sit there twiddling your thumbs, or get to work and realize you may miss the window to find the authentication pop up
 
 
 ### VistA Client Use Improvement
