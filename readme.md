@@ -27,7 +27,8 @@ All VistA Application workflows (RPC traffic flows) of cloud-based VistA are str
 
 ## Overview of Analysis
 The Vista Application Analytics team will analyze the RPC traffic between all VistA clients and three representative Cloud VistA servers.   The analysis will provide precise reports detailing different aspect of VA care. Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified types of healthcare providers and the range of time spent on different tasks. 
-On completion, VHA will possess a set of concrete, actionable recommendations, and demonstrations for improving the care provided to Veterans and a comprehensie guide to perform such analyses in the future.
+
+On completion, VHA will possess a set of concrete, actionable recommendations;  demonstrations for improving  veteran care workflows and efficiency; and a comprehensie guide to perform such analyses in the future.
 
 
 #### Workflow Analytics
