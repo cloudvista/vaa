@@ -22,12 +22,14 @@ Below are use cases of VistA Application Analytics to provide actionable insight
 
 __Efficiency__     
 Identify and minimize the process and latency of key workflows of CPRS, such as:
-1. Login process and time: 
-2. Cover sheet load time:
-3. Note switching process and time:  Example: switching from Visit Pending Note to GMC-Attending Note for a given patient
-4. Note template load time: Example: Large/complex national standarized note templates such as TRVC consults
-5. Alert when results available latency: Improve real-time alerting when results are available from lab or other domains
+1. Login process and time 
+2. Cover sheet load time
+3. National note template load time: Example: Large/complex note templates (TRVC consults, etc)
+4. Alert when results available: Improve real-time alerting when results are available from lab or other domains
 
+__EHRM planning__
+1. Identify all users and usage of clinical systems at VAMCs planned for transition
+2. Identify all applications in use at VAMCs planned for transition
 
 # Overview of Analysis
 The Vista Application Analytics team will analyze the RPC traffic between all VistA clients and three representative Cloud VistA servers.   The analysis will provide precise reports detailing different aspect of VA care. Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified types of healthcare providers and the range of time spent on different tasks.  On completion, VHA will possess a set of concrete, actionable recommendations;  demonstrations for improving  veteran care workflows and efficiency; and a comprehensie guide to perform such analyses in the future.
