@@ -135,3 +135,8 @@ gantt
     Add another diagram to demo page    :doc1, after a1  , 48h
 
 ```
+
+
+### References
+[VHA Workforce Dashboard 2023](https://www.va.gov/EMPLOYEE/docs/workforce/VA-Workforce-Dashboard-Issue-03.pdf)
+
