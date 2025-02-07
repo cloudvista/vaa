@@ -17,7 +17,7 @@ To provide a modern, centralized cloud-based platform for veteran healthcare del
 By leveraging VistA's new AWS cloud-based traffic streaming capability, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
 ### Overview of Analysis
-The Vista Application Analytics team will analyze all RPC traffic between all VistA clients and three representative Cloud VistA servers.   The analysis will provide precise reports detailing different aspect of VA care. Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified types of healthcare providers and the range of time spent on different tasks.  On completion, VHA will possess a set of concrete, actionable recommendations;  demonstrations for improving  veteran care workflows and efficiency; and a comprehensie guide to perform such analyses in the future.
+The Vista Application Analytics team will analyze all RPC traffic between all VistA clients and three representative VistA servers.   The analysis will provide precise reports detailing different aspect of VA care. Analysis will include the types and volumes of structured and unstructured information read and written by clearly identified types of healthcare providers and the range of time spent on different tasks. On completion, VHA will possess a set of concrete, actionable recommendations;  demonstrations for improving  veteran care workflows and efficiency; and a comprehensie guide to perform such analyses in the future.
 
 #### Workflow Capture
 All VistA Application workflows (RPC traffic flows) of cloud-based VistA are streamed to cloud storage using the built-in traffic mirroring service in the AWS Cloud.
@@ -63,28 +63,12 @@ k)	Task sets employed by different user types  (nursing, physician, and all iden
 l)	Isolate performance issues with patterns of use that slow care  
 m)	Verification and validation that the analysis accurately captures care provision  
 
-### VistA Client Use Improvement
+#### VistA Client Use Improvement
 
 Based solely on the Client Use Analysis Reports, the Analysis Team shall provide recommendations to upgrade the use of the top three RPC-using VistA Clients to deliver better clinical care. These recommendations shall be documented in Client Use Improvement Reports.
 
 Deliverables:  
 A.	Client Use Improvement Reports  
-
-
-### Other Use Cases
-VistA Application Analytics can provide actionable insight a wide range of other VHA clinical workflows, including the following:
-
-__Efficiency__     
-Identify and minimize the process and latency of key workflows of CPRS, such as:
-1. Login process and time 
-2. Cover sheet load time
-3. Note template load time: Large/complex note templates (TRVC consults, etc)
-4. Real-tiime alert optimization: Improve real-time alerting when results are available from lab or other domains
-
-__Transition planning__
-1. Identify all users and usage of VHA clinical systems at VAMCs planned for transition
-2. Identify all applications in use at VAMCs planned for transition
-
 
 
 ## Schedule
@@ -135,6 +119,21 @@ gantt
     Add another diagram to demo page    :doc1, after a1  , 48h
 
 ```
+
+### Other Use Cases
+VistA Application Analytics can provide actionable insight a wide range of other VHA clinical workflows, including the following:
+
+__Efficiency__     
+Identify and minimize the process and latency of key workflows of CPRS, such as:
+1. Login process and time 
+2. Cover sheet load time
+3. Note template load time: Large/complex note templates (TRVC consults, etc)
+4. Real-tiime alert optimization: Improve real-time alerting when results are available from lab or other domains
+
+__Transition planning__
+1. Identify all users and usage of VHA clinical systems at VAMCs planned for transition
+2. Identify all applications in use at VAMCs planned for transition
+
 
 
 ### References
