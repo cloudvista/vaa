@@ -28,14 +28,14 @@ All VistA Application workflows (RPC traffic flows) of cloud-based VistA are str
 
 #### VistA Client Traffic Analysis
 The VAA team will analyze *all traffic* of *all users* of *all VistA clients* for three VistA systems. 
-The Analysis Team will also provide *inter-VistA traffic analysis*, distinguishing common shared (enterprise standardized) VistA traffic patterns from VistA-specific (local, specialized) traffic patterns.
+The Analysis Team will also provide *inter-VistA traffic analysis*, distinguishing common (enterprise standardized) VistA traffic patterns from local, site-specific VistA traffic patterns.
 
 Traffic Analysis for each VistA will characterize:  
 a)	User volume  
 b)	Client types and volume of use  
 c)	Connection volumes, frequency, and duration  
 d)	Types of user authentication/security and relative use  
-e)	Machine from end Users  
+e)	Machine from end User   
 f)	RPC usage frequency and execution times  
 g)	RPC groupings – representing transactions  
 h)	RPCs specific to a VistA from cross-VistA RPCs  
@@ -69,7 +69,6 @@ Based solely on the Client Use Analysis Reports, the Analysis Team shall provide
 
 Deliverables:  
 A.	Client Use Improvement Reports  
-
 
 ## Schedule
 
