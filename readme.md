@@ -74,11 +74,11 @@ Deliverables:
 A.	Client Use Improvement Reports  
 
 
-## Overivew of Analytics
+## Workflow Correlation Analysis
 
 
 <p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/analytics-composite.svg" width="700">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-correlation.svg" width="700">
 </p>
 
 
