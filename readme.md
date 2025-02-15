@@ -47,7 +47,7 @@ __Base Period__
 
 __Option Period__  
 1. Migrated VistA client traffic analysis (VistA client traffic at EHRM sites)  
-2. VistA Community Care client traffic analysis (JLV and others)
+2. VistA Community Care client traffic analysis (VistA client traffic for JLV and others)
 
 
 

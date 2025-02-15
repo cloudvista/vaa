@@ -53,4 +53,4 @@ Based solely on the Client Use Analysis Reports, the Contractor shall provide re
 
 
 ## History
-Originally the PWS was an extension of a prior OIT project to analyze RPC traffic called Vista Adaptive Maintenance (VAM). The VAM project (completed in 2020) demonstrated it was possible to non-invasively capture RPC traffic from VistA systems hosted in the VA Enterprise Cloud (VAEC), and that one could do bulk summary statistics of RPC traffic. VAM however did not do any analysis of the RPC flows (workflow analytics) that this current PWS is concerned with.
+This PWS is based of a prior OIT sponsored project called VistA Adaptive Maintenance (VAM). The VAM project demonstrated it was possible to non-invasively capture all RPC traffic of a live, production VistA system in the VA Enterprise Cloud (VAEC). VAM achieved an authority to operate (ATO) for two production VistA systems in VAEC, and demonstrated one could analyze the captured RPCs.
