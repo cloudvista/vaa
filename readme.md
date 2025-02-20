@@ -29,7 +29,7 @@ All VistA client workflows (RPC traffic flows) of cloud-based VistA are streamed
 </p>
 
 
-#### Workflow Correlation Analysis
+#### Workflow Analysis
 
 
 <p align="center">
