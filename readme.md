@@ -1,7 +1,7 @@
 ![](img/intro.png)
 
 ### Introduction
-Each day across VA clinical staff use a suite of VistA Applications (Windows desktop applications) to create and process 50+ million documents, orders, labs, images, reminders, and transactions in VistA. All VistA Applications (VistA clients) process their transactions on VistA via remote procedure calls. In aggregate, these remote procedure calls (RPCs) between VistA clients and VistA describe all clinical care transactions and workflows performed at VHA medical centers.
+Each day across VA clinical staff use a suite of point-of-care applications ("VistA Applications") to create and process 50+ million documents, orders, labs, images, and transactions in VistA. All VistA Applications process their transactions on VistA via remote procedure calls. In aggregate, these remote procedure calls (RPCs) between VistA Applications and VistA describe all clinical care transactions and workflows performed at VHA medical centers.
 
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-overview.svg" width="700">
@@ -14,7 +14,7 @@ To provide a modern, centralized cloud-based platform for veteran healthcare del
     <img src="https://github.com/cloudvista/vaa/blob/main/img/vista-to-vaec.svg" width="700">
 </p>
 
-VistA's AWS Cloud platform provides over two hundred new features, capabilities, and improvements for VistA that can be used to improve veteran care quality, efficiency, and access. (See: [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html))  
+The new AWS Cloud platform for VistA provides over two hundred new features, capabilities, and improvements for VistA that can be used to improve the quality, efficiency, and access of VA care for veterans. (See: [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html))  
 
 By leveraging VistA's new AWS cloud-based traffic streaming capability, for example, VHA has the first-ever opportunity to comprehensively analyze the clinical workflows of all staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
