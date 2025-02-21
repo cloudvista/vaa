@@ -39,15 +39,14 @@ All VistA client workflows (RPC traffic flows) of cloud-based VistA are streamed
 
 ## Schedule
 
-__Year 1__  
+__Year 1: Foundational Traffic Analysis__  
 1. Capture of VistA client traffic  
-2. Analysis of all VistA client traffic for three VistAs  
-3. Analysis of Key VistA clients  
-4. VistA client use improvement report
+2. Analysis of all VistA client traffic  
+3. VistA client use improvement report
 
-__Year 2__  
-1. Transition VistA client traffic analysis (VistA client traffic at EHRM sites)  
-2. Community Care client traffic analysis (VistA client traffic for Community Care clients)
+__Year 2: Key Client Analyses__  
+1. Transition site analysis (VistA client traffic at EHRM sites)  
+2. Community Care workflow improvement (VistA client traffic for Community Care)
 
 
 ```mermaid
