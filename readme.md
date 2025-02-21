@@ -31,10 +31,11 @@ All VistA client workflows (RPC traffic flows) of cloud-based VistA are streamed
 
 #### Workflow Analysis
 Workflow analysis is comprised of several sequential levels of analysis, each of which builds on the prior:
-1. Traffic Analysis: Raw RPC traffic is identified, parsed, and classified by type, usage, and client
-2. Sequence Analysis: The longest common sequence of RPCs are identified, which can be correlated to specific actions and transactions
-3. Screen Analysis: The workflow from client documentation and screenshots are identified and broken down to discrete units of workflow
-4. Correlation Analysis: Correlation of the actual workflow (RPC Sequences) and documented workflow (Screen Analysis) validates and verifies correctness and completeness of workflow analysis 
+1. Foundation Analysis: Raw RPC traffic is identified, parsed, and classified by type, usage, and client
+2. Sequence Analysis: The longest common sequence of RPCs are identified, and correlated to specific actions and transactions
+3. Screen Analysis: The client screens are identified and correlated to specific types of actions and transactions
+4. Document Analysis:  Workflows as documented in the official client user manuals is identified and broken down to specific actions and transactions
+5. Workflow Correlation Analysis: Correlation of the actual workflow (Sequence Analysis) and actual screens (Screen Analysis) is correlated with the documented workflows (Document Analysis) to validate and verify completeness and correctness of workflow analysis.
 
 
 <p align="center">
