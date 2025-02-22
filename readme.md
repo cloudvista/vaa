@@ -3,9 +3,9 @@
 ### Summary
 By leveraging the traffic streaming capability of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the actual workflows of all clinical staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
-* VAA is about workflow, analyzed by categorizing and sequencing the RPC traffic it leads to.
 * Knowing VA'a actual, current workflows is key for better operations and migration to new systems.
-* Not all workflows or screens are equal - what is most used? What quick orders or note templates truly matter? … all this information is in the traffic of the Vista Clients.
+* VAA is about understanding workflow, analyzed by categorizing and sequencing the transactional traffic that clinical end-user applications generate.
+* Not all workflows are equal - what is most used? What quick orders or note templates truly matter? All this information is contained in the traffic flows the Vista Clients.
 
 
 
