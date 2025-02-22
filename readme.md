@@ -1,5 +1,10 @@
 ![](img/intro.png)
 
+### Key Points
+* VAA is about workflow, analyzed by categorizing and sequencing the RPC traffic it leads to.
+* Knowing VA workflows, their frequency and overhead is key for better operations and migration to new systems.
+* Not all workflows or screens are equal - what is most used? What quick orders or note templates truly matter? … all this information is in the traffic of the Vista Clients.
+
 ### Introduction
 Each day across VA clinical staff use a suite of point-of-care applications ("VistA Applications") to create and process 50+ million documents, orders, labs, images, and transactions for veteran care. All VistA Applications process their transactions on VistA via remote procedure calls. In aggregate, these remote procedure calls (RPCs) between VistA Applications and VistA describe all clinical care transactions and workflows performed at VHA medical centers.
 
