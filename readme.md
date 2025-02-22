@@ -61,8 +61,8 @@ __Year 1: Foundational Traffic Analysis__
 3. VistA client use improvement report
 
 __Year 2: Key Client Analyses__  
-1. Transition site analysis (VistA client traffic at EHRM sites)  
-2. Community Care workflow improvement (VistA client traffic for Community Care)
+1. Transition site workflow analysis (VistA client traffic at EHRM sites)  
+2. Community Care workflow analysis (VistA client traffic for Community Care)
 
 
 ```mermaid
