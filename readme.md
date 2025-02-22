@@ -55,12 +55,18 @@ Workflow analysis is comprised of several sequential levels of analysis, each of
 
 ## Schedule
 
-__Year 1: Foundational Traffic Analysis__  
-1. Capture of VistA client traffic  
-2. Analysis of all VistA client traffic  
-3. VistA client use improvement report
+__Year 1: Foundational Workflow Analysis__  
+1. Capture of all VistA client traffic  
+2. Statistical Analysis of all traffic
+   1. Bulk Analysis
+3. Semantic analysis of all traffic
+   1. Screen Analysis
+   2. Document Analysis
+   3. Sequence Analysis
+   4. Workflow Correlation Analysis
+4. VistA client use improvement report
 
-__Year 2: Key Client Analyses__  
+__Year 2: Key Client Workflow Analyses__  
 1. Transition site workflow analysis (VistA client traffic at EHRM sites)  
 2. Community Care workflow analysis (VistA client traffic for Community Care)
 
@@ -101,7 +107,3 @@ gantt
     Add another diagram to demo page    :doc1, after a1  , 48h
 
 ```
-
-### References
-[VHA Workforce Dashboard 2023](https://www.va.gov/EMPLOYEE/docs/workforce/VA-Workforce-Dashboard-Issue-03.pdf)
-

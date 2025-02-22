@@ -54,3 +54,8 @@ Identify and minimize the process and latency of key workflows of CPRS, such as:
 2. Cover sheet load time
 3. Note template load time: Large/complex note templates (TRVC consults, etc)
 4. Real-tiime alert optimization: Improve real-time alerting when results are available from lab or other domains
+
+
+### References
+[VHA Workforce Dashboard 2023](https://www.va.gov/EMPLOYEE/docs/workforce/VA-Workforce-Dashboard-Issue-03.pdf)
+
