@@ -67,7 +67,7 @@ __Year 1: Foundational Workflow Analysis__
 4. VistA client use improvement report
 
 __Year 2: Key Client Workflow Analyses__  
-1. Transition site workflow analysis (VistA client traffic at EHRM sites)  
+1. Transition site workflow analysis (VistA client traffic at an EHRM site)  
 2. Community Care workflow analysis (VistA client traffic for Community Care)
 
 
