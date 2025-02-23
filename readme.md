@@ -55,9 +55,9 @@ Workflow analysis is comprised of several sequential levels of analysis, each of
 
 __Year 1: Foundational Workflow Analysis__  
 1. Capture of all VistA client traffic  
-2. Statistical Analysis of all traffic
-   1. Bulk Analysis
-3. Semantic analysis of all traffic
+2. Statistical Analysis of all traffic of all clients
+   1. Composite Analysis
+3. Semantic analysis of all traffic for key clients
    1. Screen Analysis
    2. Document Analysis
    3. Sequence Analysis
