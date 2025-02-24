@@ -46,13 +46,13 @@ RPCs are identified and classified by type, use, and client
 B. __Workflow Correlation Analysis (Semantic Analysis)__:  
 Correlate the RPC sequences to each client screens and associated user interactions (what the doctor sees and does on the screen is correlated to the RPC sequences that this generates).  This correlation is built on four parallel analyses:  
 1.  *Usage Analysis*: Variety of specific RPCs used by specific VistA clients
-2.      Example: 850+ distinct RPCs used by CPRS)  
+  Example: 850+ distinct RPCs used by CPRS)  
 2.  *Sequence Analysis*: Identify the longest common sequence of RPCs behind each transaction
-3.      Example: RPC sequence for updating an allergy)  
+  Example: RPC sequence for updating an allergy)  
 3. *Screen Analysis*: Identify the client screens specific to each workflow
-4.     aExample: screens the user sees when updating an allergy)  
+  Example: screens the user sees when updating an allergy)  
 4. *Document Analysis*:  Identify the user documentation specific to each workflow
-5.     aExample: user guide for updating an allergy)  
+  Example: user guide for updating an allergy)  
 
 
 <p align="center">
