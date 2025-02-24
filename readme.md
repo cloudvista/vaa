@@ -1,4 +1,4 @@
-![](img/intro.png)
+![](img/intro2.png)
 
 ### Summary
 By leveraging the traffic streaming capability of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the actual workflows of all clinical staff at VA medical centers.  Such analysis would drive improved standards of practice by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
