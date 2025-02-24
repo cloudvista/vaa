@@ -38,10 +38,10 @@ All VistA client workflows (RPC traffic flows) of cloud-based VistA are streamed
 
 
 #### Workflow Analysis
-Workflow analysis is comprised of sequential levels of increasingly nuanced analysis, each of which builds on the other:
+Workflow analysis is comprised of sequential levels of increasingly nuanced analysis, each of which builds on the other:  
 A. __Metrics Analysis (Statistical Analysis)__:  
 Raw unprocessed RPC traffic is quality controlled for completeness and correctness.  
-RPCs are identified and classified by type, use, and client  
+RPCs are identified by type, use, and client for all traffic and all clients.
 
 B. __Workflow Correlation Analysis (Semantic Analysis)__:  
 Correlate the RPC sequences to each client screen and the associated user interactions (i.e. what the doctor sees and does on the screen is correlated to the RPC sequences that this generates).  This correlation is built on four parallel analyses:  
