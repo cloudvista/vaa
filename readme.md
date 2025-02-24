@@ -38,12 +38,13 @@ All VistA client workflows (RPC traffic flows) of cloud-based VistA are streamed
 
 
 #### Workflow Analysis
-Workflow analysis is comprised of sequential levels of increasingly nuanced analysis, each of which builds on the prior:
-1. Bulk Analysis: Raw unprocessed RPC traffic is quality controlled for completeness and correctness; All RPCs are identified, parsed, and classified by type, use, and client
-2. Sequence Analysis: The longest common sequence of RPCs are identified, and correlated to specific transactions
-3. Screen Analysis: The client screens are identified and correlated to specific types of actions or transactions
-4. Document Analysis:  Workflows as documented in the official client user manuals is identified and broken down to specific actions and transactions
-5. Workflow Correlation Analysis: The actual workflow (Sequence Analysis), the actual screens (Screen Analysis), and the documented workflows (Document Analysis) are correlated to validate and verify completeness and correctness of workflow analysis.
+Workflow analysis is comprised of sequential levels of increasingly nuanced analysis, each of which builds on the other:
+1. __Bulk Analysis (Statistical Analysis)__: Raw unprocessed RPC traffic is quality controlled for completeness and correctness.  RPCs are identified, parsed, and classified by type, use, and client
+2. __Workflow Correlation Analysis (Semantic Analysis)__: Correlate the RPC sequences to each client screens and associated user interactions (what the doctor sees and does on the screen is correlated to the RPC sequences that this generates).  This correlation is built on four parallel analyses:
+i. *Usage Analysis*: Variety of specific RPCs used by specific VistA clients (Example: 850+ distinct RPCs used by CPRS)
+ii. *Sequence Analysis*: Identify the longest common sequence of RPCs behind each transaction  (Example: RPC sequence for updating an allergy)
+iii. *Screen Analysis*: Identify the client screens specific to each workflow (Example: screens the user sees when updating an allergy)
+iv. *Document Analysis*:  Identify the user documentation specific to each workflow (Example: user guide for updating an allergy)
 
 
 <p align="center">
@@ -55,14 +56,15 @@ Workflow analysis is comprised of sequential levels of increasingly nuanced anal
 
 __Year 1: Foundational Workflow Analysis__  
 1. Capture of all VistA client traffic  
-2. Statistical Analysis  
+2. Metrics Analysis
   i. Bulk Analysis
-3. Semantic analysis  
-  i. Screen Analysis  
-  ii. Document Analysis  
-  iii. Sequence Analysis  
-4. Workflow Correlation Analysis
-5. VistA client use improvement report - based on *actual* workflow
+3. Workflow Correlation Analysis
+  i. Usage Analysis  
+  ii. Sequence Analysis  
+  iii. Screen Analysis  
+  iv. Document Analysis
+4. VistA client use improvement report - based on *actual* workflow
+
 
 
 __Year 2: Key Client Workflow Analyses__  
