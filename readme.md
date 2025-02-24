@@ -61,8 +61,8 @@ __Year 1: Foundational Workflow Analysis__
   i. Screen Analysis
   ii. Document Analysis
   iii. Sequence Analysis
-  iv. Workflow Correlation Analysis
-1. VistA client use improvement analysis
+4. Workflow Correlation Analysis
+5. VistA client use improvement report - based on *actual* workflow
 
 
 __Year 2: Key Client Workflow Analyses__  
