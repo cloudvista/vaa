@@ -44,16 +44,11 @@ Raw unprocessed RPC traffic is quality controlled for completeness and correctne
 RPCs are identified and classified by type, use, and client  
 
 B. __Workflow Correlation Analysis (Semantic Analysis)__:  
-Correlate the RPC sequences to each client screens and associated user interactions (what the doctor sees and does on the screen is correlated to the RPC sequences that this generates).  This correlation is built on four parallel analyses:  
-1.  *Usage Analysis*: Variety of specific RPCs used by specific VistA clients
-  Example: 850+ distinct RPCs used by CPRS)  
-2.  *Sequence Analysis*: Identify the longest common sequence of RPCs behind each transaction
-  Example: RPC sequence for updating an allergy)  
-3. *Screen Analysis*: Identify the client screens specific to each workflow
-  Example: screens the user sees when updating an allergy)  
-4. *Document Analysis*:  Identify the user documentation specific to each workflow
-  Example: user guide for updating an allergy)  
-
+Correlate the RPC sequences to each client screen and the associated user interactions (i.e. what the doctor sees and does on the screen is correlated to the RPC sequences that this generates).  This correlation is built on four parallel analyses:  
+1. __Usage Analysis__: Variety of specific RPCs used by specific VistA clients (Example: 850+ distinct RPCs used by CPRS)  
+2. __Sequence Analysis__: Identify the longest common sequence of RPCs behind each transaction (Eample: RPC sequence for updating an allergy)
+3. __Screen Analysis__: Identify the client screens specific to each workflow (Example: screens the user sees when updating an allergy)
+4. __Document Analysis__:  Identify the user documentation specific to each workflow (Example: user guide for updating an allergy)
 
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-correlation.svg" width="700">
