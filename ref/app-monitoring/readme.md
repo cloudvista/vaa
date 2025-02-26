@@ -19,7 +19,6 @@ computers. See: [VA Application Dashboard](https://intune.microsoft.com/#view/Mi
 | App name | App display name| Active Devices | Total usage duration (14 days)|
 | --- | --- | --- | --- | 
 | LogonUI.exe | Microsoft Windows (desktop) | 524955 | 6,239,123 hr|
-| msedge.exe | Micorosft Edge (browser) | 501433 | 4,446,558  hr |
 | CPRSChart.exe | __CPRS Chart__ | 316,743 | 4,401,384 hr |
 | OUTLOOOK.exe | Microsoft Outlook (email) | 485,069 | 2,884,309 hr|
 | chrome.exe | Google Chrome  (browser)| 262,156 | 1,838,687 hr |
