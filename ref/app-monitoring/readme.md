@@ -5,7 +5,7 @@ VA uses a commercial cloud-based tool called Microsoft Intune to monitor and ana
 *  VA staff use CPRS over 4.4 million hours (4,401,384 hours) in each two-week period
 * The most used application in VA is CPRS -  even more than *all* Microsoft Office products *combined*.
 
-* 
+
 #### VA End-User Application Usage Dashboard
 ![](img/total_usage_duration-14d.png)
 
