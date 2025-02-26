@@ -9,14 +9,12 @@ VA uses a commercial cloud-based tool called Microsoft Intune to monitor and ana
 #### VA End-User Application Usage: Top 10
 ![](img/total_usage-top-10.png)
 
-* Except for using a web browser (Microsoft Edge), the most heavily
-used application in VA is the CPRS Chart.
-* In a given two-week period, VA staff use CPRS more than 4.4 million hours
-(4,401,384 hours)
+*  In each two-week period, VA staff use CPRS more than 4.4 million hours (4,401,384 hours) 
+* The most heavily used application in VA is CPRS -  more than all the Microsoft Office products *combined*.
 
 
 | App name | App display name| Active Devices | Total usage duration (14 days)|
-| --- | --- | --- | --- || 
+| --- | --- | --- | --- | 
 | LogonUI.exe | Microsoft Windows | 524955 | 6,239,123 hr|
 | msedge.exe | Micorosft Edge | 501433 | 4,446,558  hr |
 | CPRSChart.exe | CPRS Chart | 316,743 | 4,401,384 hr |
