@@ -62,7 +62,7 @@ B. __Workflow Correlation Analysis (Semantic Analysis)__: Correlate the RPC sequ
 __Year 1: Foundational Workflow Analysis__  
 1. Capture of all VistA client traffic  
 2. Metrics Analysis
-3. Workflow Correlation Analysis
+3. Workflow Correlation Analysis  
   i. Usage Analysis  
   ii. Sequence Analysis  
   iii. Screen Analysis  
