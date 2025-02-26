@@ -8,3 +8,9 @@ applications across all of VA's 450,000+ computers.
 https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/UXAnalyticsMenu/~/applicationReliability
 
 
+#### Total Usage 
+![](img/total_usage_duration-14d.png)
+
+
+
+
