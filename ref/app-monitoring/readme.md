@@ -1,7 +1,7 @@
 ## VA End-User Application Monitoring
 VA uses a commercial cloud-based tool called Microsoft Intune to monitor
 and analyze the reliability and performance of all Windows desktop
-applications across all of VA's 450,000+ computers.
+applications across all of VA's 600,000+ distinct computers.
 
 
 #### Microsoft Intune dashboard
