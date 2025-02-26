@@ -1,20 +1,29 @@
 ## VA End-User Application Monitoring
-VA uses a commercial cloud-based tool called Microsoft Intune to monitor
-and analyze the reliability and performance of all Windows desktop
-applications across all of VA's 600,000+ distinct computers.
-
-
-#### Microsoft Intune dashboard
-https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/UXAnalyticsMenu/~/applicationReliability
+VA uses a commercial cloud-based tool called Microsoft Intune to monitor and analyze the reliability and performance of all Windows desktop applications across all of VA's 600,000+ distinct computers. See: [VA Application Dashboard](https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/UXAnalyticsMenu/~/applicationReliability)
 
 
 #### VA End-User Application Usage Dashboard
-
-The most highly used application in VA other than opening a web browser is CPRS  (CPRS Chart.exe)
-
-
 ![](img/total_usage_duration-14d.png)
 
+
+#### VA End-User Application Usage: Top 10
+![](img/total_usage-top-10.png)
+
+* Except for using a web browser (Microsoft Edge), the most heavily
+used application in VA is the CPRS Chart.
+* In a given two-week period, VA staff use CPRS more than 4.4 million hours
+(4,401,384 hours)
+
+
+| App name | App display name| Active Devices | Total usage duration (14 days)|
+| --- | --- | --- | --- || 
+| LogonUI.exe | Microsoft Windows | 524955 | 6,239,123 hr|
+| msedge.exe | Micorosft Edge | 501433 | 4,446,558  hr |
+| CPRSChart.exe | CPRS Chart | 316,743 | 4,401,384 hr |
+| OUTLOOOK.exe | Microsoft Outlook | 485,069 | 2,884,309 hr|
+| chrome.exe | Google Chrome | 262,156 | 1,838,687 hr |
+| WINWORD.exe | Microsoft Word | 375,880 | 703,756 hr|
+| EXCEL.exe | Microsoft Excel | 307,764 | 537,912 |
 
 
 
