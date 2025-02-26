@@ -2,16 +2,14 @@
 
 ### Summary
 
-VAA is comprehensive cloud-based capture and analysis of VA's  clinical workflow to improve the use of current clinical clients, enabling clinicians to provide more efficient care, higher quality care, and expanding access to care. 
-
-In addition, the captured workflows allows existing activity to  be migrated - without a loss of physician efficiency - to new 
+VAA is comprehensive cloud-based capture and analysis of VA's  clinical workflow to improve the use of current clinical clients, enabling clinicians to provide more efficient care, higher quality care, and expanding access to care. In addition, the captured workflows allows existing activity to  be migrated - without a loss of physician efficiency - to new 
 clients and systems.
 
 By leveraging the traffic streaming capability of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the actual workflows of all clinical staff at VA medical centers.  Such analysis would drive improved efficiency by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
 * Understanding of VA'a current workflows is key for improving clinical efficiency and to migration to new systems.
 * VAA enables comprehensive understanding of VA's clinical workflows, analyzed by categorizing and sequencing the transactional traffic flows that clinical care applications generate.
-* Not all workflows are equal. What is most used? What quick orders or note templates truly matter? All this information is contained in the traffic flows of Vista Clients.
+* Not all workflows are equal. What workflows are most used? What are most time consuming? What quick orders or note templates truly matter? All this information is contained in the traffic flows of Vista Clients.
 
 
 ### Introduction
