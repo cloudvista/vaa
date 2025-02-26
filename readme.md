@@ -1,8 +1,11 @@
-![](img/intro2.png)
+![](img/intro.png)
 
 ### Summary
 
-VAA is traffic-backed physician workflow capture and analysis to improve the use of current clinical clients so physicians can spend more time with a patient and see more patients. In addition, the captured workflows allow existing activity to be migrated, without a loss of physician efficiency, to new clients and systems.
+VAA is comprehensive cloud-based capture and analysis of VA's  clinical workflow to improve the use of current clinical clients, enabling clinicians to provide more efficient care, higher quality care, and expanding access to care. 
+
+In addition, the captured workflows allows existing activity to  be migrated - without a loss of physician efficiency - to new 
+clients and systems.
 
 By leveraging the traffic streaming capability of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the actual workflows of all clinical staff at VA medical centers.  Such analysis would drive improved efficiency by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
@@ -19,7 +22,7 @@ Each day across VA clinical staff use a suite of VistA point-of-care application
 </p>
 
 ### Background
-To provide a modern platform for veteran healthcare delivery, VA has migrated all VistA systems from their many unique, legacy, decentralized environments across the country to a single, centralized, commercially-supported cloud platform managed by Amazon Web Services (AWS).  
+To provide a modern platform for veteran healthcare delivery, VA has migrated all VistA systems from their many legacy, decentralized environments across the country to a single, centralized, commercially-supported cloud platform managed by Amazon Web Services (AWS).  
 
 This centralized cloud platform for VistA provides over two hundred new features, capabilities, and improvements for VistA that can be used to improve the quality, efficiency, and access of VA care for veterans. (See: [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html))  
 
