@@ -9,11 +9,10 @@ https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/UXAnalyticsMenu/~
 
 
 #### VA End-User Application Usage Dashboard
-The VA Application Dashboard shows high-use end-user applications sorted by usage.
-The top four applications by usage are
-1. LoginUI
-2. Microsoft Edge
-3. 
+
+The most highly used application in VA other than opening a web browser is CPRS  (CPRS Chart.exe)
+
+
 ![](img/total_usage_duration-14d.png)
 
 
