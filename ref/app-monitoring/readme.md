@@ -1,18 +1,17 @@
 ## VA End-User Application Monitoring
 VA uses a commercial cloud-based tool called Microsoft Intune to monitor and analyze the reliability and performance of all Windows desktop applications across all of VA's 600,000+ distinct computers. See: [VA Application Dashboard](https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/UXAnalyticsMenu/~/applicationReliability)
 
+#### Summary
+*  VA staff use CPRS over 4.4 million hours (4,401,384 hours) in a given two-week period (2.2 million hours/week)
+* The most heavily used application in VA is CPRS -  more than all the Microsoft Office products *combined*.
 
+* 
 #### VA End-User Application Usage Dashboard
 ![](img/total_usage_duration-14d.png)
 
 
 #### VA End-User Application Usage: Top 10
 ![](img/total_usage-top-10.png)
-
-#### Summary
-*  In each two-week period, VA staff use CPRS more than 4.4 million hours (4,401,384 hours) 
-* The most heavily used application in VA is CPRS -  more than all the Microsoft Office products *combined*.
-
 
 | App name | App display name| Active Devices | Total usage duration (14 days)|
 | --- | --- | --- | --- | 
