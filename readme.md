@@ -12,10 +12,13 @@ By leveraging the traffic streaming capability of cloud-based VistA, VHA has the
 
 
 ### Introduction
-Each day in VA clinical staff use a suite of VistA applications (CPRS, Imaging, and 40+ others) to create and process over 50 million documents, orders, labs, images, and transactions for veteran care.  In an average work week, VA staff use CPRS - the main VistA application - more than 4.4 million hours.
+Each day in VA clinical staff use a suite of VistA applications (CPRS, Imaging, and 40+ others) to create and process over 50 million documents, orders, labs, images, and transactions for veteran care.  
+
+In an average work week, VA staff use CPRS - the main VistA application - more than 4.4 million hours. The use of CPRS is more than any other application in VA, even more than all Microsoft Office applications combined.
+
 
 <p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/plot-va-app-use-nationside.png" width="700">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/plot-va-app-use-nationwide.png" width="700">
 </p>
 
 
