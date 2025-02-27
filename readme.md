@@ -15,7 +15,7 @@ By leveraging the traffic streaming capability of cloud-based VistA, VHA has the
 Each day across VA clinical staff use a suite of VistA point-of-care applications (CPRS and 40+ others) to create and process over 50 million documents, orders, labs, images, and transactions for veteran care.  Every week VA staff use VistA appications more than 2.5 million hours to care for veterans.
 
 <p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/graph-app-use-percent.png" width="500">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/graph-app-use-per-week.png" width="500">
 </p>
 
 As a percent of all applications used in the VA,  VistA applications comprise more than 50% of all application usage in VA - more than all Microsoft Office applications combined.
