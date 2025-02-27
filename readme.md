@@ -30,7 +30,6 @@ All VistA Applications process their transactions on VistA via remote procedure 
 </p>
 
 
-
 ![](img/graph-app-use-per-week.png)
 
 
