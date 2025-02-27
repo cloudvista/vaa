@@ -2,7 +2,7 @@
 
 ### Summary
 
-VAA provides comprehensive analytics of VA clinical workflows at the point-of-care to improve the use of current clinical clients and improve care efficiency. In addition, the captured workflows allows existing activity to  be migrated - without a loss of physician efficiency - to new clients and systems.
+VAA provides comprehensive analytics of VA clinical workflows to improve the current clinical clients to improve clinical efficiency.  The captured workflows also enable existing activity to  be migrated - without a loss of physician efficiency - to new clients and systems.
 
 By leveraging the traffic streaming capability of cloud-based VistA, VHA has the first-ever opportunity to comprehensively analyze the actual workflows of all clinical staff at VA medical centers.  Such analysis would drive improved efficiency by health care providers. These improvements would be prompted by the actual practice of care and not speculation about how care is being provided.
 
