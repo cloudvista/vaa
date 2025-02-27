@@ -12,25 +12,23 @@ By leveraging the traffic streaming capability of cloud-based VistA, VHA has the
 
 
 ### Introduction
-Each day across VA clinical staff use a suite of VistA point-of-care applications (CPRS and 40+ others) to create and process over 50 million documents, orders, labs, images, and transactions for veteran care.  Every week VA staff use VistA appications more than 2.5 million hours to care for veterans.
+Each day in VA clinical staff use a suite of VistA point-of-care applications (CPRS and 40+ others) to create and process over 50 million documents, orders, labs, images, and transactions for veteran care.  
 
-<p align="center">
-    <img src="https://github.com/cloudvista/vaa/blob/main/img/graph-app-use-per-week.png" width="500">
-</p>
-
-As a percent of all applications used in the VA,  VistA applications comprise more than 50% of all application usage in VA - more than all Microsoft Office applications combined.
+VistA application use comprise more than 50% of all application usage in VA - more than all other applications combined.
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/graph-app-use-percent.png" width="500">
 </p>
 
+In a typical week,  VA staff use VistA appications more than 2.5 million hours to care for veterans.
+<p align="center">
+    <img src="https://github.com/cloudvista/vaa/blob/main/img/graph-app-use-per-week.png" width="450">
+</p>
 
 All VistA Applications process their transactions on VistA via remote procedure calls. In aggregate, these remote procedure calls (RPCs) between VistA Applications and VistA describe all clinical care transactions and workflows performed at VHA medical centers.
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-overview.svg" width="700">
 </p>
 
-
-![](img/graph-app-use-per-week.png)
 
 
 ### Background
