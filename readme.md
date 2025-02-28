@@ -8,7 +8,7 @@ The captured workflows also enable existing activity to  be migrated to new clie
 
 This traffic-based approach to capturing workflow is a proven, emprical, data-driven approach. It is not notional or speculative. It is not based on a human observer with a stopwatch. VAA comprehensively captures all the traffic - containing all the institutional knowledge and nuances of veteran-specific care - all the way down to the individual transaction.
 
-The most important point-of-care application used by all VA clinical staff for all veteran care is CPRS.  Each day CPRS processes over 50 million new documents, orders, labs, alerts, and transactions for veteran care. Annually CPRS supports more than 115 million veteran care encounters.  Saving just one minute per veteran care encounter would save 115 million minutes across the VA - giving back 2 million hours of more clinical care to veterans at no additional cost.
+The most important point-of-care application used by all VA clinical staff is CPRS.  Each day CPRS processes over 50 million new documents, orders, labs, alerts, and transactions for veteran care. Annually CPRS supports over 115 million veteran care encounters.  Saving just one minute per veteran care encounter would save 115 million minutes across the VA - giving back 2 million hours of clinical care time to veterans at no additional cost.
 
 
 ### Introduction
