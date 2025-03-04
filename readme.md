@@ -31,7 +31,7 @@ All VistA care applications process their transactions on VistA via remote proce
 
 
 ### Background
-To provide a modern platform for veteran healthcare delivery, VA has migrated all VistA systems from their many legacy, decentralized environments across the country to a single, centralized, commercially-supported cloud platform managed by Amazon Web Services (AWS).  
+To provide a modern platform for veteran healthcare delivery, VA has migrated all VistA systems from their many decentralized on-premises environments across the country to a single, centralized, commercially-supported cloud platform managed by Amazon Web Services (AWS).  
 
 This centralized cloud platform for VistA provides over two hundred new features, capabilities, and improvements for VistA that can be used to improve the quality, efficiency, and access of VA care for veterans. (See: [AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html))  
 
