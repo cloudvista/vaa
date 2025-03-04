@@ -8,9 +8,9 @@
 ### Summary
 VistA Application Analysis (VAA) is a first-ever comprehensive capture and analysis of VA's clinical workflows. VAA's traffic-based approach to capturing workflow is a proven, deterministic, data-driven approach. It is not notional or speculative, or based on manual human observation. VAA comprehensively captures all the traffic from all users of all care applications, and identifies each compoent of every care processes - down to each individual transaction.
 
-* The analysis VA's actual workflows improves use of VA's care applications - improving clinical efficiency, expanding access to care, and reducing costs. The most important VA care application used by all VA clinical staff is CPRS. Each year CPRS supports over 115 million veteran care encounters. At this scale, saving just one minute per veteran care encounter translates to 2 million hours of additional care for veterans - expanding access to care at no additional cost.
+* Comprehensive analysis VA's actual workflows improves use of VA's care applications - improving clinical efficiency, expanding access to care, and reducing costs. The most important VA care application used by all VA clinical staff is CPRS. Each year CPRS supports over 115 million veteran care encounters. At this scale, saving just one minute per veteran care encounter translates to 2 million hours of additional care for veterans - expanding access to care at no additional cost.
 
-* VAA workflow capture enables VA's current workflows to be migrated to new information sytems - without loss of clinical efficiency and without loss of veteran-specific care. The comprehensive capture of VA clinical workflows incorporate over 35 years of accumulated institutional knowlege of VA- and veteran-specific care, allowing VA to maintain veteran-centric care and efficiency as VA migrates to new healthcare information systems.
+* Comprehensive capture of VA's clinical workflows enables VA's clinical workflows to be migrated to new information sytems - without loss of clinical efficiency and without loss of veteran-specific care. This comprehensive capture of VA clinical workflows incorporates over 35 years of accumulated institutional knowlege of VA- and veteran-specific care, allowing VA to maintain veteran-centric care and efficiency as VA migrates to new healthcare information systems.
 
 
 ### Introduction
