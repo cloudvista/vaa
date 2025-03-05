@@ -10,7 +10,8 @@ VistA Application Analysis (VAA) is a first-ever comprehensive capture and analy
 
 * VA clinical workflows incorporate 35 years of accumulated institutional knowlege, governance, and congressional mandates, which are operationalized within thousands of VA- and veteran-specific care workflows. All of these care workflows are captured.
 * Veteran care workflows are unbique to the VA and must be preserved to meet the needs of veterans.  Capturing VA's clinical workflows thus enables VA to seamlessly migrate to modernized commercial EHR systems - while preserving veteran-centric care.
-* Comprehensive analysis VA's workflows also improves use of VA's current care applications - improving clinical efficiency, expanding access to care, and reducing costs. The most used VA care application is CPRS, which supports over 115 million veteran care encounters annually. At this scale, saving just one minute per veteran care encounter translates to 2 million hours of additional care for veterans - improving efficiency, and expanding access to care at no additional cost.
+* Comprehensive analysis VA's workflows also improves use of VA's current care applications - improving clinical efficiency, expanding access to care, and reducing costs.
+* The most used VA care application is CPRS, which supports over 115 million veteran care encounters annually. At this scale, workflow analysis which saves just one minute per veteran care encounter translates to 2 million hours of additional care for veterans - expanding access to care at no additional cost.
 
 ### Introduction
 Each day in VA clinical staff use a suite of VistA care applications (CPRS, Imaging, and 40+ others) to create and process over 50 million documents, orders, labs, images, and transactions for veteran care.  Every week VA staff use CPRS a total of 4.4 million hours -  more than any other application in VA - even more than all Microsoft desktop applications *combined*.
