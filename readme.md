@@ -8,9 +8,10 @@
 ### Summary
 VistA Application Analysis (VAA) is a first-ever comprehensive capture and analysis of VA's clinical workflows. VAA's traffic-based approach to capturing workflow is a proven, deterministic, data-driven approach. It is not notional or speculative, or based on manual human observation. VAA comprehensively captures all the traffic from all users of all care applications, and identifies each compoent of every care processes - down to each individual transaction.
 
-* Comprehensive analysis VA's actual workflows improves use of VA's care applications - improving clinical efficiency, expanding access to care, and reducing costs. The most important VA care application used by all VA clinical staff is CPRS. Each year CPRS supports over 115 million veteran care encounters. At this scale, saving just one minute per veteran care encounter translates to 2 million hours of additional care for veterans - expanding access to care at no additional cost.
-* The VA workflows captured incoroprate the 35 years of accumulated institutional knowlege, governance, and mandates that have been operationalized within thousands of VA- and veteran-specific care workflows. These workflows are unbique to the VA and veteran care and must be preserved to meet the needs of veterans.
-* Comprehensive capture of VA's clinical workflows thus enables VA to safely and seamlessly migrate to modernized EHR systems - while preserving veteran-centric care and maintaining efficiency and access to care.
+* The VA workflows incoroprate 35 years of accumulated institutional knowlege, governance, and congressional mandates that are embedded within the thousands of VA- and veteran-specific care workflows. These veteran care workflows are unbique to the VA and must be preserved to meet the needs of veterans.
+* Comprehensive capture of VA's clinical workflows thus enables VA to safely and seamlessly migrate to modernized EHR systems - while preserving veteran-centric care and maintaining efficiency.
+* Comprehensive analysis VA's actual workflows also improves use of VA's care applications - improving clinical efficiency, expanding access to care, and reducing costs.
+* The most important VA care application used by all VA clinical staff is CPRS. Each year CPRS supports over 115 million veteran care encounters. At this scale, saving just one minute per veteran care encounter translates to 2 million hours of additional care for veterans - expanding access to care at no additional cost.
 
 
 ### Introduction
