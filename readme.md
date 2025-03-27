@@ -6,7 +6,7 @@
 
 
 ### Summary
-VistA Application Analysis (VAA) is a first-ever comprehensive capture and analysis of VA's clinical workflows. VAA's traffic-based approach to capturing workflow is a proven, deterministic, data-driven approach. It is not notional or speculative, or based on manual human observation. VAA comprehensively captures all the traffic from all users of all care applications, and identifies each compoent of every care processes - down to each individual transaction.
+VA Application Analysis (VAA) is a first-ever capture and analysis of VA's actual clinical workflows. VAA's traffic-based approach to capturing workflow is a proven, deterministic, data-driven approach. It is not notional or speculative, or based on manual human observation. VAA comprehensively captures all the traffic from all users of all care applications, and identifies each compoent of every care processes - down to each individual transaction.
 
 * VA clinical workflows incorporate over 30 years of accumulated institutional knowlege, governance, and congressional mandates, which are operationalized within thousands of VA- and veteran-specific care workflows. All of these care workflows are captured.
 * Veteran care workflows are unbique to the VA and must be preserved to meet the needs of veterans.  Capturing VA's clinical workflows thus enables VA to seamlessly migrate to modernized commercial EHR systems - while preserving veteran-centric care.
