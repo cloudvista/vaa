@@ -6,7 +6,7 @@
 
 
 ### Summary
-VA Application Analysis (VAA) is a first-ever capture and analysis of VA's actual clinical workflows. VAA's traffic-based approach to capturing workflow is a proven, deterministic, data-driven approach. It is not notional or speculative, or based on manual human observation. VAA comprehensively captures all the traffic from all users of all care applications, and identifies each compoent of every care processes - down to each individual transaction.
+VA Application Analysis (VAA) is a first-ever analysis of VA's actual clinical workflows. VAA's cloud-based real-time streaming analytics approach to capturing workflow is a proven, deterministic, data-driven approach. It is not notional or speculative, or based on manual human observation. VAA comprehensively captures all the traffic of all users and usage of Vista end-user applications (i.e. CPRS) across entire VA medical centers. VAA identifies, catalogs, and sequences every compoent of all VistA applications - every click, every menu, every template, every dialogue, every clinical reminder, every order, and every transaction - down to the millisecond.
 
 * VA clinical workflows incorporate over 30 years of accumulated institutional knowlege, governance, and congressional mandates, which are operationalized within thousands of VA- and veteran-specific care workflows. All of these care workflows are captured.
 * Veteran care workflows are unbique to the VA and must be preserved to meet the needs of veterans.  Capturing VA's clinical workflows thus enables VA to seamlessly migrate to modernized commercial EHR systems - while preserving veteran-centric care.
@@ -21,7 +21,7 @@ Each day in VA clinical staff use a suite of VistA point-of-care care applicatio
 </p>
 
 
-All Vista care applications process their transactions on VistA via remote procedure calls. In aggregate, these remote procedure calls (RPCs) between VistA Applications and VistA describe all clinical care transactions and workflows performed at VA medical centers.
+All Vista applications process their transactions on VistA via remote procedure calls (RPCs). In aggregate, these RPCs between VistA Applications and VistA describe all clinical care transactions and workflows performed at VA medical centers.
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/workflow-overview.svg" width="700">
 </p>
