@@ -11,10 +11,10 @@ VA Application Analytics (VAA) is a first-ever analysis of VA's actual clinical 
 * VA clinical workflows incorporate over 30 years of accumulated institutional knowlege, governance, and congressional mandates, which are operationalized within thousands of VA- and veteran-specific care workflows. All of these care workflows are captured.
 * Veteran care workflows are unique to the VA and must be preserved to meet the needs of veterans.  Capturing VA's clinical workflows enables VA to seamlessly migrate to modernized commercial EHR systems and technologies - while preserving veteran-centric care.
 * Comprehensive analysis VA's workflows also improves use of VA's current care applications - improving clinical efficiency, expanding access to care, and reducing costs.
-* The most used VA care application is CPRS, which supports over 115 million veteran care encounters annually. At this scale, workflow analysis which saves just one minute per veteran care encounter translates to 2 million hours of additional care for veterans - expanding access to care at no additional cost.
-
+* The most used VA care application is CPRS, which supports over 115 million veteran care encounters annually. At this scale, workflow analysis which saves just one minute per veteran care encounter translates to over two million hours of additional care for veterans - improving efficiency, reducing cost, and expanding access to veteran care.
+  
 ### Introduction
-Each day in VA clinical staff use a suite of VistA client applications (the most important of which is CPRS) to create and process over 50 million documents, orders, labs, images, and transactions for veteran care. Each week VA staff use CPRS over 4.4 million hours -  more than all other application usage in VA *combined*.
+Each day in VA clinical staff use a suite of VistA applications - primarily CPRS - to create and process over 50 million documents, orders, labs, images, and transactions for veteran care. In a given week, VA staff use CPRS over 4.4 million hours -  more than all other application usage in VA *combined*.
 
 <p align="center">
     <img src="https://github.com/cloudvista/vaa/blob/main/img/plot-va-app-use-nationwide.png" width="500">
