@@ -8,7 +8,7 @@ migrating seamlessly to a commercial EHR, as well to
 next generation AI agents, this workflow is abstracted 
 to a clinical user intent (CUI) model.
 
-mermaid ```
+```mermaid
 flowchart TD
     %% Start node
     Start([Start])
