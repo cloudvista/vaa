@@ -1,4 +1,4 @@
-Clinical User Intent Model
+# Clinical User Intent Model
 
 CPRS RPC sequences authoritatively and comprehensively 
 define the workflow of CPRS users across VA Medical centers.
