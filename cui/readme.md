@@ -1,12 +1,12 @@
-# Clinical User Intent Model
+# Constrained  User Intent Model
 
-CPRS RPC sequences authoritatively and comprehensively 
-define the workflow of CPRS users across VA Medical centers.
+CPRS RPC sequences comprehensively 
+capture and  define the clinical workflow of CPRS
+users across VA Medical centers.
 
-To make this exposed VA CPRS workflow capable of 
-migrating seamlessly to a commercial EHR, as well to 
-next generation AI agents, this workflow is abstracted 
-to a clinical user intent (CUI) model.
+To preserve and migrate the CPRS workflow to a commercial EHR, 
+as well to next-gen AI agents, this workflow is abstracted 
+to a constrained user intent (CUI) model.
 
 ```mermaid
 flowchart TD
