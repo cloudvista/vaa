@@ -1,17 +1,6 @@
 # Constrained  User Intent Model
 
-CPRS RPC sequences comprehensively 
-capture and  define the clinical workflow of CPRS
-users across VA Medical centers.
-
-To preserve and migrate the CPRS workflow to a commercial EHR, 
-as well to next-gen AI agents, this workflow is abstracted 
-to a constrained user intent (CUI) model.
-
-
-You’re essentially asking: what abstraction layer can capture the clinical workflow of an end-user (clinician) in a vendor-neutral, UI-agnostic, backend-agnostic way, suitable for both EHR migration (e.g., CPRS → Cerner Powerchart) and AI-driven UX.
-
-Here’s a structured analysis:
+A Constrained User Intent (CUI) model is an abstraction that captures the workflow of end-user clients in a vendor-neutral, UI-agnostic, system-agnostic way.  A CUI model of VA CPRS enables migration of VA's end-user client workflow to the new commercial EHR (Powerchart), as well as the adoption of next-generation agentic AI-driven workflows.
 
 
 ---
