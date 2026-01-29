@@ -5,6 +5,17 @@ A Constrained User Intent (CUI) model is an abstraction that captures the workfl
 A CUI model of VA's current clinical client (CPRS) enables migration of VA's current workflow to the new commercial EHR client (Powerchart).  A CUI models are the most understandable by AI and LLM systems, and thus also enable next-generation agentic AI-driven workflows.
 
 
+```mermaid
+stateDiagram-v2
+    state OrderWorkflow {
+        ViewOrders --> EnterOrder --> SignOrder
+    }
+
+    [*] --> OrderWorkflow
+    OrderWorkflow --> [*]
+
+```
+
 ---
 
 1. Candidate High-Level Abstractions
